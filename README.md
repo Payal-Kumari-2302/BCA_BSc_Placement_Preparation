@@ -2,9 +2,9 @@
 
 ### Your Complete Roadmap from College to Corporate 🚀
 
-Welcome to **BCA & B.Sc Placement Preparation** – A structured learning repository designed to help students prepare for campus placements and off-campus opportunities.
+Welcome to **BCA & B.Sc Placement Preparation** – a structured learning repository designed to help students prepare for campus placements and off-campus opportunities.
 
-This repository covers essential placement topics, practical coding exercises, company-wise preparation, mock tests, and interview resources to help freshers become job-ready.
+This repository covers essential placement topics, programming languages, coding exercises, company-wise preparation, mock tests, and interview resources to help freshers become job-ready.
 
 ---
 
@@ -15,27 +15,36 @@ This repository covers essential placement topics, practical coding exercises, c
 | 01 | 🧮 Aptitude | Quantitative Aptitude, Formulas & Practice |
 | 02 | 🧠 Logical Reasoning | Coding-Decoding, Series, Puzzles |
 | 03 | 📝 English | Grammar, Vocabulary, Verbal Ability |
-| 04 | ⚙️ Programming language | Concept(Theory &  Coding Prectice) |
-| 05 | 💻 Coding | Problem Solving (Easy to Modrate Level) |
-| 06 | ⚙️ Technical Skills | Python, SQL, DBMS, OOPs |
+| 04 | 💻 Programming Languages | C, C++, Java, Python – Theory & Coding Practice |
+| 05 | 👨‍💻 Coding | Problem Solving (Easy to Moderate Level) |
+| 06 | ⚙️ Technical Skills | SQL, DBMS, OOPs, Computer Fundamentals |
 | 07 | 🎤 Interview Preparation | HR & Technical Interview Questions |
-| 08 | 🏢 Company-wise Preparation | TCS, Cognizant, Wipro, Infosys & More |
+| 08 | 🏢 Company-wise Preparation | TCS, Wipro, Cognizant |
 | 09 | 📝 Mock Tests | Practice Tests & Placement Questions |
+
+---
+
+
 
 ---
 
 ## 🏢 Company-wise Preparation
 
-Prepare for different IT companies with dedicated learning resources.
+Dedicated placement preparation resources for major IT companies.
 
-- TCS
-- Cognizant
-- Wipro
-- Infosys
-- Accenture
-- Capgemini
-- HCL
-- Other IT Companies
+| Company | Preparation Resources |
+|---|---|
+| TCS | Aptitude, Reasoning, English, Coding & Interview |
+| Wipro | Quantitative Aptitude, Logical Reasoning, Coding & Interview |
+| Cognizant | Aptitude, Communication, Technical & Coding |
+
+**Preparation Resources Include:**
+- Company-wise Syllabus
+- Previous Year Questions (PYQs)
+- Important Coding Questions
+- Exam Patterns
+- Technical Interview Questions
+- HR Interview Questions
 
 ---
 
@@ -46,24 +55,26 @@ Prepare for different IT companies with dedicated learning resources.
 - Final-Year Students
 - Recent Graduates
 - Freshers Preparing for IT Placements
+- Students Preparing for Campus & Off-Campus Drives
 
 ---
 
 ## 📌 How to Use This Repository?
 
 1. Start with Aptitude and Logical Reasoning fundamentals.
-2. Improve English and communication skills.
-3. Practice coding questions regularly.
-4. Learn important technical concepts.
-5. Prepare company-wise questions and exam patterns.
-6. Attempt mock tests.
-7. Practice HR and technical interviews.
+2. Improve English grammar and communication skills.
+3. Learn programming languages and their concepts.
+4. Practice coding questions regularly.
+5. Study important technical concepts.
+6. Prepare company-wise questions and exam patterns.
+7. Attempt mock tests.
+8. Practice HR and technical interviews.
 
 ---
 
 ## 📈 Learning Approach
 
-**Learn → Practice → Analyze → Improve → Prepare → Get Placed**
+**Learn → Understand → Practice → Analyze → Improve → Get Placed**
 
 Consistency and regular practice are the keys to successful placement preparation.
 
@@ -73,7 +84,18 @@ Consistency and regular practice are the keys to successful placement preparatio
 
 Suggestions, corrections, and contributions are welcome!
 
-If you find this repository helpful, don't forget to ⭐ **Star this Repository**.
+If you find this repository helpful:
+
+- ⭐ Star this repository.
+- 🍴 Fork this repository.
+- 🔄 Share it with your friends.
+- 🤝 Contribute useful learning resources.
+
+---
+
+## 📌 Disclaimer
+
+This repository is created for educational and placement preparation purposes. All materials are intended to support learning and practice. Company selection processes and exam patterns may change over time.
 
 ---
 
@@ -81,4 +103,4 @@ If you find this repository helpful, don't forget to ⭐ **Star this Repository*
 
 **"Your skills define your opportunities. Your preparation defines your success."**
 
-**Start Preparing Today. Build Your Future Tomorrow! 🚀**
+### 🚀 Start Preparing Today. Build Your Future Tomorrow!
