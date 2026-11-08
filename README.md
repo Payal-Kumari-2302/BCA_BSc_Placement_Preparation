@@ -15,11 +15,12 @@ This repository covers essential placement topics, practical coding exercises, c
 | 01 | 🧮 Aptitude | Quantitative Aptitude, Formulas & Practice |
 | 02 | 🧠 Logical Reasoning | Coding-Decoding, Series, Puzzles |
 | 03 | 📝 English | Grammar, Vocabulary, Verbal Ability |
-| 04 | 💻 Coding | Python, Programming & Problem Solving |
-| 05 | ⚙️ Technical Skills | Python, SQL, DBMS, OOPs |
-| 06 | 🎤 Interview Preparation | HR & Technical Interview Questions |
-| 07 | 🏢 Company-wise Preparation | TCS, Cognizant, Wipro, Infosys & More |
-| 08 | 📝 Mock Tests | Practice Tests & Placement Questions |
+| 04 | ⚙️ Programming language | Concept(Theory &  Coding Prectice) |
+| 05 | 💻 Coding | Problem Solving (Easy to Modrate Level) |
+| 06 | ⚙️ Technical Skills | Python, SQL, DBMS, OOPs |
+| 07 | 🎤 Interview Preparation | HR & Technical Interview Questions |
+| 08 | 🏢 Company-wise Preparation | TCS, Cognizant, Wipro, Infosys & More |
+| 09 | 📝 Mock Tests | Practice Tests & Placement Questions |
 
 ---
 
