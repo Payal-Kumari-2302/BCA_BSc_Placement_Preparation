@@ -19,10 +19,9 @@ This repository covers essential placement topics, programming languages, coding
 | 05 | 👨‍💻 Coding | Problem Solving (Easy to Moderate Level) |
 | 06 | ⚙️ Technical Skills | SQL, DBMS, OOPs, Computer Fundamentals |
 | 07 | 🎤 Interview Preparation | HR & Technical Interview Questions |
-| 08 | 🏢 Company-wise Preparation | TCS, Wipro, Cognizant & More |
+| 08 | 🏢 Company-wise Preparation | TCS, Wipro & Cognizant |
 | 09 | 📝 Mock Tests | Practice Tests & Placement Questions |
 
----
 ---
 
 ## 🎯 Who Is This Repository For?
@@ -40,11 +39,11 @@ This repository covers essential placement topics, programming languages, coding
 
 1. Start with Aptitude and Logical Reasoning fundamentals.
 2. Improve English grammar and communication skills.
-3. Learn programming languages and their concepts.
+3. Learn programming languages and strengthen your concepts.
 4. Practice coding questions regularly.
 5. Study important technical concepts.
 6. Prepare company-wise questions and exam patterns.
-7. Attempt mock tests.
+7. Attempt mock tests to evaluate your preparation.
 8. Practice HR and technical interviews.
 
 ---
