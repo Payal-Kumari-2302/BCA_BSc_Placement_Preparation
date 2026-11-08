@@ -23,19 +23,6 @@ This repository covers essential placement topics, programming languages, coding
 | 09 | 📝 Mock Tests | Practice Tests & Placement Questions |
 
 ---
-
-
-
----
-
-**Preparation Resources Include:**
-- Company-wise Syllabus
-- Previous Year Questions (PYQs)
-- Important Coding Questions
-- Exam Patterns
-- Technical Interview Questions
-- HR Interview Questions
-
 ---
 
 ## 🎯 Who Is This Repository For?
