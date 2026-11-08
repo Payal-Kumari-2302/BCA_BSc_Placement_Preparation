@@ -2,7 +2,7 @@
 
 ### Your Complete Roadmap from College to Corporate 🚀
 
-Welcome to **BCA & B.Sc Placement Preparation** – a structured learning repository designed to help students prepare for campus placements and off-campus opportunities.
+Welcome to **BCA & B.Sc Placement Preparation** – A structured learning repository designed to help students prepare for campus placements and off-campus opportunities.
 
 This repository covers essential placement topics, practical coding exercises, company-wise preparation, mock tests, and interview resources to help freshers become job-ready.
 
