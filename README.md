@@ -19,7 +19,7 @@ This repository covers essential placement topics, programming languages, coding
 | 05 | 👨‍💻 Coding | Problem Solving (Easy to Moderate Level) |
 | 06 | ⚙️ Technical Skills | SQL, DBMS, OOPs, Computer Fundamentals |
 | 07 | 🎤 Interview Preparation | HR & Technical Interview Questions |
-| 08 | 🏢 Company-wise Preparation | TCS, Wipro, Cognizant |
+| 08 | 🏢 Company-wise Preparation | TCS, Wipro, Cognizant & More |
 | 09 | 📝 Mock Tests | Practice Tests & Placement Questions |
 
 ---
@@ -27,16 +27,6 @@ This repository covers essential placement topics, programming languages, coding
 
 
 ---
-
-## 🏢 Company-wise Preparation
-
-Dedicated placement preparation resources for major IT companies.
-
-| Company | Preparation Resources |
-|---|---|
-| TCS | Aptitude, Reasoning, English, Coding & Interview |
-| Wipro | Quantitative Aptitude, Logical Reasoning, Coding & Interview |
-| Cognizant | Aptitude, Communication, Technical & Coding |
 
 **Preparation Resources Include:**
 - Company-wise Syllabus
