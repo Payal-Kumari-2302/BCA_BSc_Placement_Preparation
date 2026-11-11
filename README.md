@@ -1,14 +1,14 @@
-<div align="center">
-
 # 🎯 BCA & B.Sc Placement Preparation
 
 ### 🚀 Your Complete Roadmap from College to Corporate
 
-**Learn • Practice • Improve • Get Placed**
+<div align="center">
+
+**Learn • Practice • Analyze • Improve • Succeed**
 
 ![Placement](https://img.shields.io/badge/Placement-Preparation-blue?style=for-the-badge)
-![Students](https://img.shields.io/badge/For-BCA%20%26%20B.Sc-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-60%20Days-green?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange?style=for-the-badge)
 
 </div>
 
@@ -36,6 +36,39 @@ It provides structured learning resources, coding practice, aptitude preparation
 
 ---
 
+## 📅 60-Day Placement Preparation Challenge
+
+A structured 60-day roadmap divided into two phases.
+
+### 🔵 Phase 1: Foundation Building (Day 01–30)
+
+**Goal: Complete the fundamentals of all important placement subjects.**
+
+- 🧮 Understand Quantitative Aptitude concepts and formulas.
+- 🧠 Learn important Logical Reasoning concepts.
+- 📝 Build English Grammar and Vocabulary fundamentals.
+- 📊 Understand Data Interpretation concepts.
+- 💻 Strengthen programming fundamentals.
+- 👨‍💻 Understand basic coding problems and their logic.
+
+**Target:** Complete the foundation of all subjects within 30 days.
+
+### 🟢 Phase 2: Practice & Improvement (Day 31–60)
+
+**Goal: Improve accuracy, speed, and problem-solving skills.**
+
+- 📝 Practice previous year questions (PYQs).
+- 💻 Solve company-wise placement questions.
+- ⏱️ Practice timed quizzes and mock tests.
+- 🔍 Analyze incorrect and skipped questions.
+- 📈 Identify weak topics and revise them.
+- 🔄 Reattempt questions you previously got wrong.
+- 🎯 Improve speed, accuracy, and confidence.
+
+**Target:** Strengthen preparation through regular practice, PYQs, mock tests, and mistake analysis.
+
+---
+
 ## 🎯 Who Is This Repository For?
 
 - 🎓 BCA Students
@@ -47,33 +80,23 @@ It provides structured learning resources, coding practice, aptitude preparation
 
 ---
 
-## 🗺️ Preparation Roadmap
-
-Follow this learning approach to improve your placement skills:
-
-1. 🧮 Build strong aptitude fundamentals.
-2. 🧠 Improve logical reasoning and problem-solving.
-3. 📝 Develop English communication skills.
-4. 💻 Learn programming languages and concepts.
-5. 👨‍💻 Practice coding questions regularly.
-6. ⚙️ Strengthen technical knowledge.
-7. 🏢 Prepare for company-specific assessments.
-8. 🎤 Practice HR and technical interviews.
-
----
-
 ## 📈 Learning Strategy
 
+<div align="center">
 
+### Days 01–30
+**Learn → Understand → Build Foundation**
 
-### Learn → Understand → Practice
+⬇️
 
-### Practice → Analyze → Improve
+### Days 31–60
+**Practice → Analyze → Improve**
 
-### Prepare → Perform → Get Placed
+⬇️
 
+### 🎯 Placement Ready!
 
-Consistency and regular practice are the keys to successful placement preparation.
+</div>
 
 ---
 
@@ -102,7 +125,7 @@ This repository is created for educational and placement preparation purposes. A
 
 **"Your skills define your opportunities. Your preparation defines your success."**
 
-### 🚀 Start Preparing Today. Build Your Future Tomorrow!
+### 🚀 60 Days of Consistency. A Stronger Step Towards Your Career!
 
 **Happy Learning! 💻**
 
