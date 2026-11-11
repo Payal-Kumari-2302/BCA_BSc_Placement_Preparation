@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 BCA & B.Sc Placement Preparation
+# BCA & B.Sc Placement Preparation
 
 ### Your Complete Roadmap from College to Corporate 🚀
 
