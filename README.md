@@ -1,6 +1,6 @@
 <div align="center">
 
-# BCA & B.Sc Placement Preparation
+# 🎯 BCA & B.Sc Placement Preparation
 
 ### Your Complete Roadmap from College to Corporate 🚀
 
@@ -71,14 +71,14 @@ A structured 60-day roadmap divided into two phases to build strong fundamentals
 
 ## 🗺️ 60-Day Learning Roadmap
 
-<div align="center">
+
 
 | Phase | Duration | Focus |
 |:---:|:---:|---|
 | 🔵 Phase 1 | Day 01–30 | Learn & Build Foundation |
 | 🟢 Phase 2 | Day 31–60 | Practice, Analyze & Improve |
 
-</div>
+
 
 ### 📈 Preparation Strategy
 
@@ -116,4 +116,62 @@ Practice → Analyze → Identify Mistakes → Improve
 3. Build strong programming fundamentals.
 4. Solve coding questions regularly.
 5. Practice previous year placement questions.
-6. Attempt mock tests within a
+6. Attempt mock tests within a time limit.
+7. Analyze mistakes and revise weak topics.
+8. Prepare for HR and technical interviews.
+
+---
+
+## 📈 Learning Strategy
+
+<div align="center">
+
+### 🔵 First 30 Days
+**Learn → Understand → Build Foundation**
+
+⬇️
+
+### 🟢 Next 30 Days
+**Practice → Analyze → Improve**
+
+⬇️
+
+### 🏆 Final Goal
+**Become Placement Ready!**
+
+</div>
+
+Consistency and regular practice are the keys to successful placement preparation.
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and improvements are always welcome!
+
+If you find this repository helpful:
+
+- ⭐ Star this repository.
+- 🍴 Fork this repository.
+- 🔄 Share it with your friends.
+- 🤝 Contribute useful learning resources.
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is created for educational and placement preparation purposes. All materials are intended to support learning and practice. Company selection processes and exam patterns may change over time.
+
+---
+
+<div align="center">
+
+## 💡 Remember
+
+**"Your skills define your opportunities. Your preparation defines your success."**
+
+### 🚀 60 Days of Consistency. One Step Closer to Your Dream Career!
+
+**Happy Learning! 💻**
+
+</div>
