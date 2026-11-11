@@ -64,7 +64,7 @@ Follow this learning approach to improve your placement skills:
 
 ## 📈 Learning Strategy
 
-<div align="center">
+
 
 ### Learn → Understand → Practice
 
@@ -72,7 +72,6 @@ Follow this learning approach to improve your placement skills:
 
 ### 🎯 Prepare → Perform → Get Placed
 
-</div>
 
 Consistency and regular practice are the keys to successful placement preparation.
 
