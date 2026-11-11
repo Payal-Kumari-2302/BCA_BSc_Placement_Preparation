@@ -70,7 +70,7 @@ Follow this learning approach to improve your placement skills:
 
 ### Practice → Analyze → Improve
 
-### 🎯 Prepare → Perform → Get Placed
+### Prepare → Perform → Get Placed
 
 
 Consistency and regular practice are the keys to successful placement preparation.
