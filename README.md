@@ -1,6 +1,6 @@
 <div align="center">
 
-# BCA & B.Sc Placement Preparation
+# 🎯 BCA & B.Sc Placement Preparation
 
 ### Your Complete Roadmap from College to Corporate 🚀
 
@@ -20,19 +20,19 @@ Welcome to **BCA & B.Sc Placement Preparation!**
 
 This repository is designed to help students prepare for campus placements and off-campus opportunities.
 
-It provides structured learning resources, coding practice, aptitude preparation, and interview materials to help freshers become job-ready.
+It provides structured learning resources, coding practice, aptitude preparation, previous year questions, and interview materials to help freshers become job-ready.
 
 ---
 
 ## 📚 Learning Resources
 
-| No. | Preparation Area | Learning Resources |
-|:---:|---|---|
-| 01 | 🧮 Aptitude | [Quantitative Aptitude →](https://prepinsta.com/learn-aptitude/) |
-| 02 | 🧠 Logical Reasoning | [Logical Reasoning →](https://prepinsta.com/learn-logical-reasoning/) |
-| 03 | 📝 English | [Verbal English →](https://prepinsta.com/learn-verbal-english/) |
-| 04 | 📊 Data Interpretation | [Data Interpretation →](https://prepinsta.com/learn-data-interpretation/) |
-| 05 | 💻 Coding Practice | [Most Asked Coding Questions →](https://prepinsta.com/interview-preparation/technical-interview-questions/most-asked-coding-questions-in-placements/) |
+| No. | Preparation Area | Primary Learning | Extra Topic-wise Practice |
+|:---:|---|---|---|
+| 01 | 🧮 Aptitude | [PrepInsta](https://prepinsta.com/learn-aptitude/) | [IndiaBIX](https://www.indiabix.com/aptitude/questions-and-answers/) |
+| 02 | 🧠 Logical Reasoning | [PrepInsta](https://prepinsta.com/learn-logical-reasoning/) | [IndiaBIX](https://www.indiabix.com/logical-reasoning/questions-and-answers/) |
+| 03 | 📝 English | [PrepInsta](https://prepinsta.com/learn-verbal-english/) | [IndiaBIX](https://www.indiabix.com/verbal-ability/) |
+| 04 | 📊 Data Interpretation | [PrepInsta](https://prepinsta.com/learn-data-interpretation/) | [IndiaBIX](https://www.indiabix.com/data-interpretation/questions-and-answers/) |
+| 05 | 💻 Coding Practice | [Most Asked Coding Questions](https://prepinsta.com/interview-preparation/technical-interview-questions/most-asked-coding-questions-in-placements/) | — |
 
 ---
 
@@ -100,42 +100,20 @@ Practice → Analyze → Identify Mistakes → Improve
 
 ## 🎓 Who Is This Repository For?
 
-- BCA Students
-- B.Sc Students
-- Final-Year Students
-- Recent Graduates
-- Freshers Preparing for IT Placements
-- Students Preparing for Campus & Off-Campus Drives
+- 🎓 BCA Students
+- 🎓 B.Sc Students
+- 📖 Final-Year Students
+- 💼 Recent Graduates
+- 🚀 Freshers Preparing for IT Placements
+- 🏢 Students Preparing for Campus & Off-Campus Drives
 
 ---
 
-## 🤝 Contributions
+## 📌 How to Use This Repository?
 
-Contributions, suggestions, and improvements are always welcome!
-
-If you find this repository helpful:
-
-- ⭐ Star this repository.
-- 🍴 Fork this repository.
-- 🔄 Share it with your friends.
-- 🤝 Contribute useful learning resources.
-
----
-
-## ⚠️ Disclaimer
-
-This repository is created for educational and placement preparation purposes. All materials are intended to support learning and practice. Company selection processes and exam patterns may change over time.
-
----
-
-<div align="center">
-
-## 💡 Remember
-
-**"Your skills define your opportunities. Your preparation defines your success."**
-
-### 🚀 60 Days of Consistency. One Step Closer to Your Dream Career!
-
-**Happy Learning! 💻**
-
-</div>
+1. Start with basic concepts using PrepInsta.
+2. Practice additional topic-wise questions on IndiaBIX.
+3. Build strong programming fundamentals.
+4. Solve coding questions regularly.
+5. Practice previous year placement questions.
+6. Attempt mock tests within a
