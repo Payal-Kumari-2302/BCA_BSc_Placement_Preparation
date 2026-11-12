@@ -425,7 +425,7 @@ Follow this routine:
 5. Revise the previous day's 10 words.
 6. Solve 10–15 MCQs.
 
-**Daily time:** Approximately 20–30 minutes.
+**Daily time:** Approximately 10 minutes.
 
 ---
 
