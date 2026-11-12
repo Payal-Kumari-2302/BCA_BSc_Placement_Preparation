@@ -446,7 +446,7 @@ Follow this routine:
 Memorising the list alone is not sufficient. Practise topic-wise questions from these resources.
 
 | Resource | What to Practise |
-|---|---|
+---
 
 | [IndiaBix – One Word Substitution](https://www.indiabix.com/verbal-ability/one-word-substitutes/) | Placement-level MCQs |
 
