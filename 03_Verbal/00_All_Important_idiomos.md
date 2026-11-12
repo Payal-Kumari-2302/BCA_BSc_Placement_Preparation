@@ -433,7 +433,7 @@ Follow this routine every day:
 5. Revise the previous day's 10 idioms.
 6. Solve 10–15 MCQs related to idioms.
 
-**Daily time:** Approximately 20–30 minutes.
+**Daily time:** Approximately 10  minutes.
 
 ## 4. Revision Strategy
 
@@ -476,51 +476,7 @@ Memorising this list alone is not sufficient. Practise MCQs from these resources
 
 ---
 
-# 7. Progress Checklist
 
-### Priority 1 – First 50
-- [ ] Day 01
-- [ ] Day 02
-- [ ] Day 03
-- [ ] Day 04
-- [ ] Day 05
-
-### Priority 2 – 51–100
-- [ ] Day 06
-- [ ] Day 07
-- [ ] Day 08
-- [ ] Day 09
-- [ ] Day 10
-
-### Priority 3 – 101–150
-- [ ] Day 11
-- [ ] Day 12
-- [ ] Day 13
-- [ ] Day 14
-- [ ] Day 15
-
-### Priority 4 – 151–200
-- [ ] Day 16
-- [ ] Day 17
-- [ ] Day 18
-- [ ] Day 19
-- [ ] Day 20
-
-### Priority 5 – 201–250
-- [ ] Day 21
-- [ ] Day 22
-- [ ] Day 23
-- [ ] Day 24
-- [ ] Day 25
-
-### Priority 6 – 251–300
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-
----
 
 ## ⭐ Final Recommendation
 
