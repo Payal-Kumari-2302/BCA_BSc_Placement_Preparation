@@ -252,104 +252,7 @@ This repository covers important technical interview questions, programming conc
 
 ---
 
-# 💻 7. Basic Coding Interview Questions
-
-Practice these programs using C and Python.
-
-## Number-Based Programs
-
-- [ ] Reverse a Number.
-- [ ] Check Palindrome Number.
-- [ ] Check Prime Number.
-- [ ] Print Fibonacci Series.
-- [ ] Find Factorial.
-- [ ] Check Armstrong Number.
-- [ ] Find Largest of Three Numbers.
-- [ ] Swap Two Numbers.
-- [ ] Find Sum of Digits.
-- [ ] Check Even or Odd.
-
-## String-Based Programs
-
-- [ ] Reverse a String.
-- [ ] Check Palindrome String.
-- [ ] Count Vowels in a String.
-- [ ] Count Characters in a String.
-- [ ] Check Anagram.
-- [ ] Find Duplicate Characters.
-- [ ] Count Words in a String.
-
-## Array-Based Programs
-
-- [ ] Find Largest Element in an Array.
-- [ ] Find Second Largest Element.
-- [ ] Find Smallest Element.
-- [ ] Find Sum of Array Elements.
-- [ ] Sort an Array.
-- [ ] Find Duplicate Elements.
-- [ ] Search an Element in an Array.
-- [ ] Remove Duplicate Elements.
-
----
-
-# 🔍 8. Output-Based Questions
-
-Practice predicting program outputs.
-
-- [ ] Loops and Nested Loops.
-- [ ] Conditional Statements.
-- [ ] Functions.
-- [ ] Arrays.
-- [ ] Pointers in C.
-- [ ] Strings.
-- [ ] Recursion.
-- [ ] Lists and Tuples in Python.
-- [ ] Dictionary and Set in Python.
-- [ ] Operators and Expressions.
-
----
-
-# 🖥️ 9. Computer Fundamentals
-
-- [ ] What is Hardware and Software?
-- [ ] Difference between RAM and ROM.
-- [ ] What is Cache Memory?
-- [ ] What is BIOS?
-- [ ] What is an Algorithm?
-- [ ] What is a Flowchart?
-- [ ] What is Data Structure?
-- [ ] What is Stack and Queue?
-- [ ] What is Linear Search?
-- [ ] What is Binary Search?
-- [ ] Difference between Array and Linked List.
-
----
-
-# 🌍 10. Basic Web Technologies
-
-## HTML
-
-- [ ] What is HTML?
-- [ ] What are HTML Tags?
-- [ ] Difference between HTML and HTML5.
-
-## CSS
-
-- [ ] What is CSS?
-- [ ] What are the types of CSS?
-- [ ] Difference between Class and ID.
-- [ ] What is Responsive Web Design?
-
-## JavaScript
-
-- [ ] What is JavaScript?
-- [ ] Difference between var, let and const.
-- [ ] What is DOM?
-- [ ] Difference between == and ===.
-
----
-
-# 🚀 11. Project-Based Interview Questions
+# 🚀 10. Project-Based Interview Questions
 
 Prepare these questions for every project mentioned in your resume.
 
@@ -364,11 +267,6 @@ Prepare these questions for every project mentioned in your resume.
 - [ ] What improvements can you make?
 - [ ] What did you learn from this project?
 
-## Projects to Prepare
-
-1. Facial Recognition Attendance System.
-2. Online Job Portal.
-3. Smart Calculator.
 
 ---
 
@@ -384,44 +282,8 @@ Prepare these questions for every project mentioned in your resume.
 - [ ] What is your GitHub profile?
 - [ ] Explain your contribution to your projects.
 
----
 
-# ⭐ 13. Preparation Priority
 
-| Subject | Priority |
-|---|---|
-| Python | Very High |
-| SQL | Very High |
-| OOPs | Very High |
-| DBMS | Very High |
-| C Programming | High |
-| Operating System | High |
-| Computer Networks | High |
-| Java | Medium |
-| C++ | Medium |
-| Computer Fundamentals | High |
-| Web Technologies | Medium |
-| Project Explanation | Very High |
-| Coding Practice | Very High |
-
----
-
-# 🎯 Final Preparation Strategy
-
-Follow this order for technical interview preparation:
-
-1. Python Programming
-2. SQL and DBMS
-3. OOPs Concepts
-4. C Programming
-5. Operating System
-6. Computer Networks
-7. Java Programming
-8. C++ Programming
-9. Coding Practice
-10. Project Explanation
-11. Resume-Based Questions
-12. Mock Technical Interviews
 
 ## Important Instructions
 
