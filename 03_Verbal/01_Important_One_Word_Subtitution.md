@@ -448,9 +448,8 @@ Memorising the list alone is not sufficient. Practise topic-wise questions from 
 | Resource | What to Practise |
 |---|---|
 | [GeeksforGeeks – One Word Substitution](https://www.geeksforgeeks.org/one-word-substitution/) | One Word Substitution concepts and examples |
-| [IndiaBix – One Word Substitution](https://www.indiabix.com/verbal-ability/one-word-substitution/) | Placement-level MCQs |
+| [IndiaBix – One Word Substitution](https://www.indiabix.com/verbal-ability/one-word-substitutes/) | Placement-level MCQs |
 | [PrepInsta – TCS NQT Verbal](https://prepinsta.com/tcs-nqt/placement-papers/english-verbal/) | TCS Verbal Ability practice |
-| [Campus Monk – TCS Actual Verbal Questions](https://campusmonk.in/100-actual-tcs-verbal-ability-questions-2020-2025-tcs-nqt-tcs-smart-hiring-previous-year-questions/) | PYQ-oriented practice |
 
 ---
 
