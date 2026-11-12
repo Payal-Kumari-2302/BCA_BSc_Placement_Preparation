@@ -252,7 +252,7 @@ This repository covers important technical interview questions, programming conc
 
 ---
 
-# 🚀 10. Project-Based Interview Questions
+# 🚀 7. Project-Based Interview Questions
 
 Prepare these questions for every project mentioned in your resume.
 
@@ -270,7 +270,7 @@ Prepare these questions for every project mentioned in your resume.
 
 ---
 
-# 📄 12. Resume-Based Technical Questions
+# 📄 8. Resume-Based Technical Questions
 
 - [ ] Explain every technical skill mentioned in your resume.
 - [ ] Which programming language are you most comfortable with?
