@@ -445,11 +445,7 @@ Follow this routine:
 
 Memorising the list alone is not sufficient. Practise topic-wise questions from these resources.
 
-| Resource | What to Practise |
----
-
-| [IndiaBix – One Word Substitution](https://www.indiabix.com/verbal-ability/one-word-substitutes/) | Placement-level MCQs |
-
+- [IndiaBix – One Word Substitutes](https://www.indiabix.com/verbal-ability/one-word-substitutes/)
 
 ---
 
@@ -466,7 +462,6 @@ Memorising the list alone is not sufficient. Practise topic-wise questions from 
 | 51–60 | Mixed Verbal Ability Mock Tests |
 
 ---
-
 
 # ⭐ Final Recommendation
 
