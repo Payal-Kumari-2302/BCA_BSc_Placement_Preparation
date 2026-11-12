@@ -454,7 +454,7 @@ Memorising this list alone is not sufficient. Practise MCQs from these resources
 | Resource | What to Practise |
 |---|---|
 | [GeeksforGeeks – TCS Idioms Quiz](https://www.geeksforgeeks.org/quizzes/tcs-nqt-2026-verbal-ability-idioms-and-phrases-class/) | TCS-oriented MCQs |
-| [IndiaBix – Section 1](https://www.indiabix.com/verbal-ability/idioms-and-phrases/107001/) | Idioms and phrases MCQs |
+| [IndiaBix – Section 1](https://www.indiabix.com/verbal-ability/idioms-and-phrases/) | Idioms and phrases MCQs |
 | [IndiaBix – Section 2](https://www.indiabix.com/verbal-ability/idioms-and-phrases/108001/) | Placement-level MCQs |
 | [IndiaBix – Section 2, Page 2](https://www.indiabix.com/verbal-ability/idioms-and-phrases/108002/) | Additional questions |
 | [PrepInsta – TCS NQT Verbal](https://prepinsta.com/tcs-nqt/placement-papers/english-verbal/) | Verbal Ability practice |
