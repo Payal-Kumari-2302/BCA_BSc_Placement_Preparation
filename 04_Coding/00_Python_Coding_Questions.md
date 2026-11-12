@@ -71,10 +71,6 @@ The questions are arranged according to preparation priority.
 - HCLTech
 - Tech Mahindra
 
-## 🛠️ Programming Languages
-
-- Python
-- C
 
 ## 📌 Preparation Strategy
 
