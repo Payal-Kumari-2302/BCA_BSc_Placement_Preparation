@@ -12,9 +12,11 @@ Good morning, Sir/Ma'am.
 
 First of all, thank you for giving me this opportunity to introduce myself. My name is Payal Kumari, and I am from Pakur, Jharkhand. I am pursuing my Bachelor of Computer Applications (BCA) from Pakur Polytechnic, affiliated with Jharkhand University of Technology. 
 
-During my graduation, I developed an interest in programming, problem-solving, and software development. I have worked on academic projects, including a Facial Recognition Attendance System using Python and SQL. Working on this project helped me improve my technical knowledge and problem-solving skills.
+During my graduation, I developed an interest in programming, problem-solving, and software development. 
 
-I have basic knowledge of programming languages like Python, and i'm also familier with the SQL,DBMS,& OOps concepts.
+I have worked on academic projects, including a Facial Recognition Attendance System using Python and SQL. Working on this project helped me improve my technical knowledge and problem-solving skills.
+
+I have basic knowledge of programming languages like Python, and i'm also familiar with the SQL,DBMS,& OOps concepts.
 Talking about my strengths, I am a self-motivated person, a quick learner, and a responsible team player. I enjoy learning new things and continuously improving my skills.
 
 My goal is to start my professional career with a reputed organization like TCS, where I can learn, grow, and contribute to the organization.
