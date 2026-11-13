@@ -57,13 +57,13 @@ Yes, I consider myself successful because I never give up and keep learning from
 
 ---
 
-### 2. What Are Your Short-Term Goals?
+### 6. what Are Your Short-Term Goals?
 
 My short-term goal is to get an opportunity in a reputed company where I can apply my knowledge, improve my skills, and gain practical experience.
 
 ---
 
-### 3. What Are Your Long-Term Goals?
+### 7. What Are Your Long-Term Goals?
 
 My long-term goal is to grow professionally, take on greater responsibilities, and achieve a good position in the organization through my hard work and continuous learning.
 
