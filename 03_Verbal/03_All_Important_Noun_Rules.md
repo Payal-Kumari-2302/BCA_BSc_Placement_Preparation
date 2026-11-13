@@ -1,0 +1,444 @@
+# Noun – Complete Grammar Rules
+
+**Target Exams:** TCS, Wipro, Accenture, Cognizant, Infosys, Genpact & Other Placement Exams.
+
+## 🔴 PRIORITY 1 – Most Important Rules
+
+### Rule 1: Uncountable Nouns
+
+Uncountable nouns do not normally take plural forms.
+
+| Incorrect ❌ | Correct ✅ |
+|---|---|
+| Informations | Information |
+| Advices | Advice |
+| Furnitures | Furniture |
+| Luggages | Luggage |
+| Equipments | Equipment |
+| Sceneries | Scenery |
+| Knowledges | Knowledge |
+| Breads | Bread |
+| Workes | Work |
+| Researches | Research |
+
+**Examples:**
+- I need some information.
+- She gave me good advice.
+- This furniture is expensive.
+
+### Rule 2: Singular and Plural Nouns
+
+Some nouns form their plurals irregularly.
+
+| Singular | Plural |
+|---|---|
+| Man | Men |
+| Woman | Women |
+| Child | Children |
+| Foot | Feet |
+| Tooth | Teeth |
+| Mouse | Mice |
+| Goose | Geese |
+| Ox | Oxen |
+| Person | People |
+| Louse | Lice |
+
+**Examples:**
+- The children are playing.
+- Two men are standing outside.
+
+### Rule 3: Each, Every, Either, Neither
+
+These words generally take singular nouns and singular verbs.
+
+**Structure:** Each/Every/Either/Neither + Singular Noun + Singular Verb
+
+Examples:
+- Each student is intelligent.
+- Every boy has a book.
+- Neither answer is correct.
+- Either option is suitable.
+
+❌ Each students are present.
+
+### Rule 4: One of + Plural Noun
+
+**Structure:** One of + Plural Noun + Singular Verb
+
+Examples:
+- One of my friends is a doctor.
+- One of the students has won the prize.
+- One of these books belongs to me.
+
+❌ One of my friend is intelligent.
+
+### Rule 5: Much, Many, Few, Little
+
+| Word | Used With | Example |
+|---|---|---|
+| Much | Uncountable Nouns | Much water |
+| Many | Countable Nouns | Many students |
+| Few | Countable Nouns | Few people |
+| A few | Countable Nouns | A few books |
+| Little | Uncountable Nouns | Little money |
+| A little | Uncountable Nouns | A little milk |
+
+Examples:
+- Many students are absent.
+- Much water is wasted.
+- Few people understand this.
+- I have a little knowledge of Python.
+
+### Rule 6: Nouns Always Taking Plural Verbs
+
+Some nouns are generally used with plural verbs.
+
+| Noun | Example |
+|---|---|
+| Scissors | The scissors are sharp. |
+| Trousers | My trousers are new. |
+| Spectacles | His spectacles are expensive. |
+| Police | The police are investigating. |
+| Cattle | Cattle are grazing. |
+| People | People are waiting. |
+
+### Rule 7: Nouns Generally Taking Singular Verbs
+
+Some nouns ending in 's' are singular in meaning.
+
+| Noun | Example |
+|---|---|
+| News | The news is good. |
+| Mathematics | Mathematics is difficult. |
+| Physics | Physics is interesting. |
+| Economics | Economics is an important subject. |
+| Politics | Politics is complicated. |
+| Measles | Measles is a disease. |
+
+### Rule 8: Collective Nouns
+
+A collective noun generally takes a singular verb when the group acts as one unit.
+
+Examples:
+- The team is playing well.
+- The committee has taken a decision.
+- The family lives together.
+
+When members act individually, a plural verb may be used, especially in British English.
+
+### Rule 9: Pair of Nouns
+
+Some nouns are used in pairs.
+
+Examples: Scissors, trousers, spectacles, shoes, socks.
+
+- A pair of scissors is on the table.
+- Two pairs of shoes are available.
+- This pair of trousers is expensive.
+
+Remember: The verb agrees with the word 'pair', not the noun after it.
+
+### Rule 10: Countable and Uncountable Nouns
+
+**Countable Nouns:**
+- Book
+- Pen
+- Student
+- Chair
+- Apple
+
+**Uncountable Nouns:**
+- Water
+- Milk
+- Sugar
+- Advice
+- Information
+- Furniture
+
+Examples:
+- I have three books.
+- I need some water.
+
+---
+
+## 🟠 PRIORITY 2 – Important Rules
+
+### Rule 11: Possessive Nouns
+
+Use apostrophes to show possession.
+
+| Rule | Example |
+|---|---|
+| Singular + 's | Rahul's book |
+| Plural ending in s + ' | Girls' hostel |
+| Irregular plural + 's | Children's toys |
+
+### Rule 12: Material Nouns
+
+Material nouns generally do not take plural forms when used in a general sense.
+
+Examples:
+- Gold is expensive.
+- Water is essential.
+- Silver is a precious metal.
+- Iron is a useful metal.
+
+### Rule 13: Abstract Nouns
+
+Abstract nouns represent qualities, feelings, states or ideas.
+
+Examples:
+- Honesty
+- Beauty
+- Wisdom
+- Childhood
+- Happiness
+- Bravery
+
+Example:
+- Honesty is the best policy.
+
+### Rule 14: Proper Nouns
+
+Proper nouns are the specific names of people, places or things.
+
+Examples:
+- India
+- Rahul
+- Delhi
+- Monday
+- January
+
+Proper nouns generally begin with capital letters.
+
+### Rule 15: Common Nouns
+
+Common nouns refer to general names of people, places or things.
+
+Examples:
+- Boy
+- City
+- School
+- Teacher
+- Country
+
+### Rule 16: Compound Nouns
+
+Compound nouns are formed by combining two or more words.
+
+Examples:
+
+| Singular | Plural |
+|---|---|
+| Toothbrush | Toothbrushes |
+| Classroom | Classrooms |
+| Mother-in-law | Mothers-in-law |
+| Passer-by | Passers-by |
+| Editor-in-chief | Editors-in-chief |
+
+### Rule 17: Gender of Nouns
+
+| Masculine | Feminine |
+|---|---|
+| King | Queen |
+| Actor | Actress |
+| Waiter | Waitress |
+| Prince | Princess |
+| Lion | Lioness |
+| Hero | Heroine |
+| Nephew | Niece |
+| Uncle | Aunt |
+
+### Rule 18: Some Nouns Have the Same Singular and Plural Forms
+
+| Singular | Plural |
+|---|---|
+| Sheep | Sheep |
+| Deer | Deer |
+| Fish | Fish |
+| Aircraft | Aircraft |
+| Species | Species |
+| Series | Series |
+
+Examples:
+- One sheep is grazing.
+- Ten sheep are grazing.
+
+### Rule 19: Certain Nouns Have Different Meanings in Singular and Plural
+
+| Singular | Plural |
+|---|---|
+| Custom | Customs |
+| Manner | Manners |
+| Work | Works |
+| Force | Forces |
+| Good | Goods |
+| Arm | Arms |
+
+Examples:
+- Good means something beneficial.
+- Goods means products or merchandise.
+- Customs can mean traditions or import duties.
+
+### Rule 20: Nouns Used Only in Singular Form
+
+Some nouns are generally singular when used in their ordinary meanings.
+
+Examples:
+- Information
+- Advice
+- Furniture
+- Machinery
+- Poetry
+- Stationery
+- Baggage
+
+---
+
+## 🟡 PRIORITY 3 – Additional Grammar Rules
+
+### Rule 21: Article Before Singular Countable Nouns
+
+A singular countable noun generally requires a determiner.
+
+Examples:
+- I bought a book.
+- She is an engineer.
+- He is a teacher.
+
+❌ I bought book.
+
+### Rule 22: A and An
+
+- A university
+- A European
+- An honest man
+- An hour
+- An umbrella
+
+Remember: A/An depends on pronunciation, not spelling.
+
+### Rule 23: The + Superlative Degree
+
+The definite article 'the' is generally used before superlative adjectives.
+
+Examples:
+- He is the best student.
+- This is the tallest building.
+- She is the most intelligent girl.
+
+### Rule 24: Double Plural Errors
+
+Avoid adding plural endings twice.
+
+| Incorrect ❌ | Correct ✅ |
+|---|---|
+| Childrens | Children |
+| Mens | Men |
+| Womens | Women |
+| Peoples (when referring to persons generally) | People |
+| Oxes | Oxen |
+
+Note: 'Peoples' is correct when referring to different ethnic or national groups.
+
+### Rule 25: Possessive Case with Time and Distance
+
+Apostrophe + s can indicate time or distance.
+
+Examples:
+- A day's work.
+- Two weeks' holiday.
+- A month's salary.
+- Ten minutes' walk.
+
+### Rule 26: Number + Noun Used as an Adjective
+
+When a noun is used as a compound adjective before another noun, it is generally singular.
+
+Examples:
+- A five-year-old boy.
+- A ten-day trip.
+- A two-hour examination.
+- A hundred-page book.
+
+❌ A five-years-old boy.
+
+### Rule 27: Many a + Singular Noun
+
+**Structure:** Many a + Singular Noun + Singular Verb
+
+Examples:
+- Many a student has failed.
+- Many a person makes mistakes.
+
+### Rule 28: More Than One + Singular Noun
+
+**Structure:** More than one + Singular Noun + Singular Verb
+
+Examples:
+- More than one student is absent.
+- More than one person has complained.
+
+### Rule 29: The Number of vs A Number of
+
+| Expression | Verb |
+|---|---|
+| The number of + Plural Noun | Singular |
+| A number of + Plural Noun | Plural |
+
+Examples:
+- The number of students is increasing.
+- A number of students are absent.
+
+### Rule 30: Noun After Prepositions
+
+A noun or pronoun used as the object of a preposition takes the appropriate objective form.
+
+Examples:
+- Between you and me.
+- She is interested in music.
+- He is good at mathematics.
+
+---
+
+## ⚠️ Common Exam Mistakes
+
+| Incorrect ❌ | Correct ✅ |
+|---|---|
+| He gave me many advices. | He gave me much advice. |
+| The news are good. | The news is good. |
+| One of the boy is absent. | One of the boys is absent. |
+| Each students has a book. | Each student has a book. |
+| The police is coming. | The police are coming. |
+| A pair of shoes are new. | A pair of shoes is new. |
+| Many a students have failed. | Many a student has failed. |
+| The number of students are high. | The number of students is high. |
+| A five-years plan | A five-year plan |
+| These furnitures are costly. | This furniture is costly. |
+
+---
+
+## 📝 Important Exam Topics
+
+1. Error Spotting
+2. Sentence Correction
+3. Fill in the Blanks
+4. Singular-Plural Identification
+5. Subject-Verb Agreement
+6. Countable and Uncountable Nouns
+7. Articles
+8. Possessive Case
+
+## 🎯 Preparation Checklist
+
+- [ ] Learn all 30 rules.
+- [ ] Memorize irregular plural nouns.
+- [ ] Understand countable and uncountable nouns.
+- [ ] Practice singular-plural questions.
+- [ ] Practice error spotting.
+- [ ] Solve previous-year placement questions.
+- [ ] Revise incorrect answers.
+
+## 📌 Target
+
+Master noun rules and improve grammar accuracy for placement aptitude and competitive examinations.
