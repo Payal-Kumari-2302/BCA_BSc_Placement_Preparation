@@ -38,40 +38,7 @@
 | Does not support function overloading. | Supports function overloading. |
 | Uses `printf()` and `scanf()`. | Uses `cout` and `cin`. |
 
-### 2. ⭐⭐⭐ What is a Pointer?
 
-**Definition:** A pointer is a variable that stores the memory address of another variable.
-
-**Example:**
-```cpp
-int a = 10;
-int *p = &a;
-```
-
-**Advantages:**
-- Supports dynamic memory allocation.
-- Allows efficient memory access.
-
-**Disadvantages:**
-- Incorrect use can cause memory errors.
-- Dangling pointers can create bugs.
-
-### 3. ⭐⭐⭐ What is the difference between Array and Pointer?
-
-| Array | Pointer |
-|---|---|
-| Stores multiple elements of the same data type. | Stores a memory address. |
-| Has a fixed size after creation. | Can point to different memory locations. |
-| Array name is not a modifiable pointer variable. | Pointer is a separate variable. |
-
-### 4. ⭐⭐⭐ What is Dynamic Memory Allocation?
-
-**Definition:** Allocating memory during program execution using `new` and releasing it using `delete`.
-
-**Example:**
-```cpp
-int *p = new int(10);
-delete p;
 ```
 
 **Advantages:**
