@@ -29,11 +29,7 @@ Thank you!
 
 ### 2. Why Should We Hire You?
 
-As a fresher, I have a good academic foundation and a strong willingness to learn.
-
-I am a quick learner, adaptable, and a responsible team player. I have also developed my technical and problem-solving skills through academic projects.
-
-Although I don't have professional experience yet, I am ready to learn, take responsibility, and give my best to the organization.
+As a fresher, I have a good academic foundation and a strong willingness to learn. I am a quick learner, adaptable, and a responsible team player. I have also developed my technical and problem-solving skills through academic projects. Although I don't have professional experience yet, I am ready to learn, take responsibility, and give my best to the organization.
 
 ---
 
