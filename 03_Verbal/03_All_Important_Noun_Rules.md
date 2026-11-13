@@ -418,26 +418,139 @@ Examples:
 
 ---
 
-## 📝 Important Exam Topics
+# Noun – Error Spotting Practice
 
-1. Error Spotting
-2. Sentence Correction
-3. Fill in the Blanks
-4. Singular-Plural Identification
-5. Subject-Verb Agreement
-6. Countable and Uncountable Nouns
-7. Articles
-8. Possessive Case
+**Target Exams:** TCS | Wipro | Accenture | Cognizant | Infosys | Genpact
 
-## 🎯 Preparation Checklist
+## 🔴 LEVEL 1 – Basic (Must Practice)
 
-- [ ] Learn all 30 rules.
-- [ ] Memorize irregular plural nouns.
-- [ ] Understand countable and uncountable nouns.
-- [ ] Practice singular-plural questions.
-- [ ] Practice error spotting.
-- [ ] Solve previous-year placement questions.
-- [ ] Revise incorrect answers.
+Find the grammatical error in each sentence.
+
+1. She gave me / many useful advices / before the interview / No error.
+
+2. Each students / must submit / their assignment / on time.
+
+3. One of my friend / is working / in an IT company / No error.
+
+4. The news / are very shocking / for everyone / No error.
+
+5. I have / many furnitures / in my room / No error.
+
+6. The police / is investigating / the case / No error.
+
+7. He bought / two pair of shoes / yesterday / No error.
+
+8. Mathematics / are my favourite / subject / No error.
+
+9. She has / a good knowledge / about computers / No error.
+
+10. Every employees / should follow / company rules / No error.
+
+## 🟠 LEVEL 2 – Moderate
+
+11. The number of students / are increasing / every year / No error.
+
+12. A number of candidates / is waiting / outside the examination hall / No error.
+
+13. Many a students / have failed / in this examination / No error.
+
+14. More than one student / have applied / for this position / No error.
+
+15. The committee / have taken / its final decision / No error.
+
+16. He gave me / an important information / about the job / No error.
+
+17. These scissors / is very sharp / and expensive / No error.
+
+18. My brother has / bought a new / trouser / No error.
+
+19. The children / are playing / in the garden / No error.
+
+20. Neither of the two boys / are responsible / for this mistake / No error.
+
+## 🔴 LEVEL 3 – Advanced
+
+21. The quality of these products / are not good / enough for customers / No error.
+
+22. The teacher gave / each of the students / some important advices / No error.
+
+23. A five-years-old boy / won the competition / yesterday / No error.
+
+24. The furniture in this room / are very expensive / and beautiful / No error.
+
+25. One of the most important / qualities of a good employee / are honesty / No error.
+
+26. The pair of trousers / are lying / on the bed / No error.
+
+27. Several equipments / are required / for this project / No error.
+
+28. The manager along with his employees / are attending / the meeting / No error.
+
+29. Every boy and every girl / have received / a certificate / No error.
+
+30. The information provided by the candidates / were incorrect / during verification / No error.
+
+---
+
+# ✅ ANSWER KEY WITH EXPLANATIONS
+
+## Level 1
+
+| Q.No. | Incorrect Part | Correct Form | Rule |
+|---|---|---|---|
+| 1 | many useful advices | much useful advice | Uncountable noun |
+| 2 | Each students | Each student | Each + Singular noun |
+| 3 | my friend | my friends | One of + Plural noun |
+| 4 | are very shocking | is very shocking | News is singular |
+| 5 | many furnitures | much furniture | Uncountable noun |
+| 6 | is investigating | are investigating | Police takes plural verb |
+| 7 | two pair | two pairs | Plural noun |
+| 8 | are my favourite | is my favourite | Mathematics is singular |
+| 9 | No error | No error | Correct sentence |
+| 10 | Every employees | Every employee | Every + Singular noun |
+
+## Level 2
+
+| Q.No. | Incorrect Part | Correct Form | Rule |
+|---|---|---|---|
+| 11 | are increasing | is increasing | The number of |
+| 12 | is waiting | are waiting | A number of |
+| 13 | Many a students have | Many a student has | Many a + Singular |
+| 14 | have applied | has applied | More than one |
+| 15 | have taken | has taken | Committee acting as one unit |
+| 16 | an important information | important information | Uncountable noun |
+| 17 | is very sharp | are very sharp | Scissors |
+| 18 | a new trouser | a new pair of trousers | Pair of nouns |
+| 19 | No error | No error | Correct sentence |
+| 20 | are responsible | is responsible | Neither + Singular verb |
+
+## Level 3
+
+| Q.No. | Incorrect Part | Correct Form | Rule |
+|---|---|---|---|
+| 21 | are not good | is not good | Subject is quality |
+| 22 | some important advices | some important advice | Uncountable noun |
+| 23 | five-years-old boy | five-year-old boy | Compound adjective |
+| 24 | are very expensive | is very expensive | Furniture is singular |
+| 25 | are honesty | is honesty | Subject is qualities |
+| 26 | are lying | is lying | The pair of |
+| 27 | Several equipments | Several pieces of equipment | Uncountable noun |
+| 28 | are attending | is attending | Along with |
+| 29 | have received | has received | Every...and every |
+| 30 | were incorrect | was incorrect | Information is singular |
+
+---
+
+# 🎯 Practice Target
+
+| Level | Questions | Target Accuracy |
+|---|---:|---:|
+| Basic | 10 | 90% |
+| Moderate | 10 | 80% |
+| Advanced | 10 | 70% |
+| Total | 30 | 80%+ |
+
+
 
 ## 📌 Target
 
