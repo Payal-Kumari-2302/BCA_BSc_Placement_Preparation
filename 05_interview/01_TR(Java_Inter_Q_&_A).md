@@ -4,8 +4,6 @@
 
 This repository contains important Java-specific concepts and interview questions for BCA students and freshers preparing for campus placements and entry-level IT jobs.
 
-**Preparation Focus:** Java-specific concepts, keywords, JVM architecture, collections, memory management and implementation differences.
-
 ---
 
 ## 1. Introduction to Java
@@ -149,7 +147,7 @@ This repository contains important Java-specific concepts and interview question
 | `finalize()` | Deprecated method historically associated with garbage collection. |
 
 ---
-
+### OOPs Concepts:- Also prepared oops Concepts
 ## 4. ⭐ Difference Between C, C++, Java and Python
 
 | Feature | C | C++ | Java | Python |
@@ -175,6 +173,8 @@ This repository contains important Java-specific concepts and interview question
 | C++ | `cin` | `cout` |
 | Java | `Scanner` | `System.out.println()` |
 | Python | `input()` | `print()` |
+
+
 
 
 
