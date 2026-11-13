@@ -51,6 +51,21 @@ As a fresher, my primary focus is on starting my career, gaining practical exper
 
 ---
 
+### 5. Do You Consider Yourself Successful?
+
+Yes, I consider myself successful because I never give up and keep learning from every situation. My academic achievements and project work have given me confidence. However, I believe I still have a lot to learn and achieve.
+
+---
+
+### 2. What Are Your Short-Term Goals?
+
+My short-term goal is to get an opportunity in a reputed company where I can apply my knowledge, improve my skills, and gain practical experience.
+
+---
+
+### 3. What Are Your Long-Term Goals?
+
+My long-term goal is to grow professionally, take on greater responsibilities, and achieve a good position in the organization through my hard work and continuous learning.
 
 
 ---
