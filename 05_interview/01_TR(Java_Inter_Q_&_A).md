@@ -147,7 +147,11 @@ This repository contains important Java-specific concepts and interview question
 | `finalize()` | Deprecated method historically associated with garbage collection. |
 
 ---
-### OOPs Concepts:- Also prepared oops Concepts
+### ⭐ OOPs Concepts:- Also prepared oops Concepts
+
+---
+
+
 ## 4. ⭐ Difference Between C, C++, Java and Python
 
 | Feature | C | C++ | Java | Python |
