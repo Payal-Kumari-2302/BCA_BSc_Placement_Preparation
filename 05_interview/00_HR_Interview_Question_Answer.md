@@ -6,7 +6,7 @@ This repository contains important HR interview questions and answers for BCA st
 
 ## 🔴 Priority 1 – Most Important HR Questions
 
-###⭐1. Tell Me About Yourself
+### ⭐1. Tell Me About Yourself
 
 
 Good morning, Sir/Ma'am.
