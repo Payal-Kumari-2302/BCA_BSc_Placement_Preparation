@@ -204,7 +204,7 @@ Proper nouns are the specific names of people, places or things.
 
 Examples:
 - India
-- Rahul
+- Payal
 - Delhi
 - Monday
 - January
