@@ -10,18 +10,11 @@ This repository contains important HR interview questions and answers for BCA st
 
 Good morning, Sir/Ma'am.
 
-First of all, thank you for giving me this opportunity to introduce myself.
+First of all, thank you for giving me this opportunity to introduce myself. My name is Payal Kumari, and I am from Pakur, Jharkhand. I am pursuing my Bachelor of Computer Applications (BCA) from Pakur Polytechnic, affiliated with Jharkhand University of Technology. 
 
-My name is Payal Kumari, and I am from Pakur, Jharkhand.
+During my graduation, I developed an interest in programming, problem-solving, and software development. I have worked on academic projects, including a Facial Recognition Attendance System using Python and SQL. Working on this project helped me improve my technical knowledge and problem-solving skills.
 
-I am pursuing my Bachelor of Computer Applications (BCA) from Pakur Polytechnic, affiliated with Jharkhand University of Technology.
-
-During my graduation, I developed an interest in programming, problem-solving, and software development.
-
-I have worked on academic projects, including a Facial Recognition Attendance System using Python and SQL. Working on this project helped me improve my technical knowledge and problem-solving skills.
-
-I have basic knowledge of programming languages like Python, Java, and C, along with web technologies such as HTML, CSS, and JavaScript.
-
+I have basic knowledge of programming languages like Python, and i'm also familier with the SQL,DBMS,& OOps concepts.
 Talking about my strengths, I am a self-motivated person, a quick learner, and a responsible team player. I enjoy learning new things and continuously improving my skills.
 
 My goal is to start my professional career with a reputed organization like TCS, where I can learn, grow, and contribute to the organization.
@@ -46,27 +39,17 @@ Although I don't have professional experience yet, I am ready to learn, take res
 
 **Strengths:**
 
-My strengths are that I am self-motivated, a quick learner, and have a positive attitude towards learning new things.
-
-I am also responsible, dedicated to my work, and always willing to improve myself.
+My strengths are that I am self-motivated, a quick learner, and have a positive attitude towards learning new things. I am also responsible, dedicated to my work, and always willing to improve myself.
 
 **Weaknesses:**
 
-One of my weaknesses is that sometimes I overthink before making decisions because I want to complete my tasks accurately.
-
-Sometimes, I also spend more time than necessary checking my work.
-
-However, I am working on improving my time management and decision-making skills.
+One of my weaknesses is that sometimes I overthink before making decisions because I want to complete my tasks accurately. However, I am working on improving my time management and decision-making skills.
 
 ---
 
 ### 4. What Is Your Salary Expectation?
 
-As a fresher, my primary focus is on starting my career, gaining practical experience, and developing my professional skills.
-
-I expect a salary that is fair for the role and aligned with the company's standards.
-
-I am flexible and open to the compensation offered by the organization.
+As a fresher, my primary focus is on starting my career, gaining practical experience, and developing my professional skills. I expect a salary that is fair for the role and aligned with the company's standards. I am flexible and open to the compensation offered by the organization.
 
 ---
 
