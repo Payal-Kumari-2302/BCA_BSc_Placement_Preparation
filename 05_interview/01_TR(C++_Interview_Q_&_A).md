@@ -7,8 +7,8 @@
 **Primary Programming Language:** Python
 
 
-### 1.What is c++
-- C++: C++ is a general-purpose, object-oriented programming language developed by Bjarne Stroustrup in 1985
+## 1.What is c++
+ C++: C++ is a general-purpose, object-oriented programming language developed by Bjarne Stroustrup in 1985
 ## 📌 Introduction to C++
 
 - **Developed By:** Bjarne Stroustrup
