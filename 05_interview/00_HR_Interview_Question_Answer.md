@@ -6,7 +6,8 @@ This repository contains important HR interview questions and answers for BCA st
 
 ## 🔴 Priority 1 – Most Important HR Questions
 
-### 1. Tell Me About Yourself
+###⭐1. Tell Me About Yourself
+
 
 Good morning, Sir/Ma'am.
 
@@ -27,13 +28,13 @@ Thank you!
 
 ---
 
-### 2. Why Should We Hire You?
+### ⭐2. Why Should We Hire You?
 
 As a fresher, I have a good academic foundation and a strong willingness to learn. I am a quick learner, adaptable, and a responsible team player. I have also developed my technical and problem-solving skills through academic projects. Although I don't have professional experience yet, I am ready to learn, take responsibility, and give my best to the organization.
 
 ---
 
-### 3. What Are Your Strengths and Weaknesses?
+### ⭐3. What Are Your Strengths and Weaknesses?
 
 **Strengths:**
 
@@ -57,14 +58,12 @@ Yes, I consider myself successful because I never give up and keep learning from
 
 ---
 
-### 6. what Are Your Short-Term Goals?
+### ⭐6. what Are Your Short-Term and Long-Term Goals?
 
+**Short-Term Goals:**
 My short-term goal is to get an opportunity in a reputed company where I can apply my knowledge, improve my skills, and gain practical experience.
 
----
-
-### 7. What Are Your Long-Term Goals?
-
+**Long-Term Goals:**
 My long-term goal is to grow professionally, take on greater responsibilities, and achieve a good position in the organization through my hard work and continuous learning.
 
 
