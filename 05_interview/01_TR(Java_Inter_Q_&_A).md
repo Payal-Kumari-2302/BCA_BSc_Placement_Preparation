@@ -2,9 +2,9 @@
 
 **Target Companies:** TCS, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.
 
-This repository contains important Java concepts and interview questions for BCA students and freshers preparing for campus placements and entry-level IT jobs.
+This repository contains important Java-specific concepts and interview questions for BCA students and freshers preparing for campus placements and entry-level IT jobs.
 
-**Preparation Focus:** Java-specific concepts, syntax, features and implementation differences. Common Python topics are excluded.
+**Preparation Focus:** Java-specific concepts, keywords, JVM architecture, collections, memory management and implementation differences.
 
 ---
 
@@ -59,7 +59,7 @@ This repository contains important Java concepts and interview questions for BCA
 **Answer:** JDK provides tools to develop and compile Java programs.
 
 ### 3. ⭐ What is JRE?
-**Answer:** JRE provides an environment to run Java programs.
+**Answer:** JRE provides the environment required to run Java programs.
 
 ### 4. ⭐ Difference between JDK, JRE and JVM?
 **Answer:**
@@ -94,7 +94,7 @@ This repository contains important Java concepts and interview questions for BCA
 **Answer:** HashSet stores unique elements without guaranteeing insertion order.
 
 ### 13. ⭐ What is a Wrapper Class?
-**Answer:** Wrapper classes convert primitive data types into objects.
+**Answer:** Wrapper classes represent primitive data types as objects.
 
 **Example:** `int` → `Integer`.
 
@@ -104,10 +104,10 @@ This repository contains important Java concepts and interview questions for BCA
 ### 15. What is Unboxing?
 **Answer:** Automatic conversion of wrapper objects into primitive values.
 
-### 16. ⭐ What is the Difference between `==` and `.equals()`?
+### 16. ⭐ Difference between `==` and `.equals()`?
 **Answer:**
-- `==`: Compares object references.
-- `.equals()`: Compares content when properly implemented.
+- `==`: Compares primitive values or object references.
+- `.equals()`: Compares object content when properly implemented.
 
 ---
 
@@ -124,13 +124,15 @@ This repository contains important Java concepts and interview questions for BCA
 
 **Example:** `@Override`.
 
-### 20. What is the Difference between String, StringBuilder and StringBuffer?
-**Answer:**
-- String: Immutable.
-- StringBuilder: Mutable and not thread-safe.
-- StringBuffer: Mutable and thread-safe.
+### 20. Difference between String, StringBuilder and StringBuffer?
 
-### 21. What is the Difference between Primitive and Reference Data Types?
+| String | StringBuilder | StringBuffer |
+|---|---|---|
+| Immutable | Mutable | Mutable |
+| Not synchronized | Not synchronized | Synchronized |
+| Less suitable for repeated modifications | Faster for modifications | Thread-safe modifications |
+
+### 21. Difference between Primitive and Reference Data Types?
 **Answer:**
 - Primitive: Stores basic values.
 - Reference: Stores references to objects.
@@ -138,146 +140,47 @@ This repository contains important Java concepts and interview questions for BCA
 ### 22. What is Constructor Overloading?
 **Answer:** Defining multiple constructors with different parameters.
 
-### 23. What is the Difference between `final`, `finally` and `finalize()`?
-**Answer:**
-- `final`: Restricts modification or inheritance.
-- `finally`: Executes cleanup code.
-- `finalize()`: Deprecated garbage-collection-related method.
+### 23. Difference between `final`, `finally` and `finalize()`?
+
+| Keyword | Meaning |
+|---|---|
+| `final` | Restricts modification, overriding or inheritance. |
+| `finally` | Executes cleanup code after try-catch. |
+| `finalize()` | Deprecated method historically associated with garbage collection. |
 
 ---
 
-1. Basic Differences
+## 4. ⭐ Difference Between C, C++, Java and Python
 
-Feature
+| Feature | C | C++ | Java | Python |
+|---|---|---|---|---|
+| Developed By | Dennis Ritchie | Bjarne Stroustrup | James Gosling | Guido van Rossum |
+| Year | 1972 | 1985 | 1995 | 1991 |
+| Programming Type | Procedural | Procedural + OOP | Class-based OOP | Multi-paradigm |
+| Execution | Compiler | Compiler | JVM (Bytecode) | Interpreter (commonly) |
+| Syntax | Complex | Complex | Moderate | Simple |
+| Platform | Platform Dependent | Platform Dependent | Platform Independent | Cross-platform |
+| Memory Management | Manual | Manual + Automatic | Automatic | Automatic |
+| Pointer | Supported | Supported | No Explicit Pointers | No Explicit Pointers |
+| Multiple Inheritance | Not Applicable | Supported | Through Interfaces | Supported |
+| OOP Support | No | Yes | Yes | Yes |
+| Speed | Very Fast | Very Fast | Generally Fast | Generally Slower |
+| File Extension | `.c` | `.cpp` | `.java` | `.py` |
 
-C
+### Input and Output Differences
 
-C++
+| Language | Input | Output |
+|---|---|---|
+| C | `scanf()` | `printf()` |
+| C++ | `cin` | `cout` |
+| Java | `Scanner` | `System.out.println()` |
+| Python | `input()` | `print()` |
 
-Java
 
-Python
 
-Developed By
 
-Dennis Ritchie
 
-Bjarne Stroustrup
-
-James Gosling
-
-Guido van Rossum
-
-Year
-
-1972
-
-1985
-
-1995
-
-1991
-
-Programming Type
-
-Procedural
-
-Procedural + OOP
-
-Object-Oriented
-
-Multi-paradigm
-
-Execution
-
-Compiler
-
-Compiler
-
-JVM (Bytecode)
-
-Interpreter (commonly)
-
-Syntax
-
-Complex
-
-Complex
-
-Moderate
-
-Simple
-
-Platform
-
-Platform Dependent
-
-Platform Dependent
-
-Platform Independent
-
-Cross-platform
-
-Memory Management
-
-Manual
-
-Manual + Automatic
-
-Automatic
-
-Automatic
-
-Pointer
-
-Supported
-
-Supported
-
-No Explicit Pointers
-
-No Explicit Pointers
-
-Multiple Inheritance
-
-Not Applicable
-
-Supported
-
-Through Interfaces
-
-Supported
-
-OOP Support
-
-No
-
-Yes
-
-Yes
-
-Yes
-
-Speed
-
-Very Fast
-
-Very Fast
-
-Fast
-
-Generally Slower
-
-File Extension
-
-.c
-
-.cpp
-
-.java
-
-.py
-
----
 
 **Goal:** Build basic Java interview knowledge while keeping Python as the primary programming language.
+
+**Note:** Focus on Java-specific concepts instead of repeating common programming and OOP topics already covered in Python preparation.
