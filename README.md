@@ -35,6 +35,7 @@ It provides structured learning resources, coding practice, aptitude preparation
 | 05 | 💻 Coding Practice | [Most Asked Coding Questions](https://prepinsta.com/interview-preparation/technical-interview-questions/most-asked-coding-questions-in-placements/) | [HackerRank](https://www.hackerrank.com/) 
 | 06 | 👨‍💻 Programming Language | Master one language (Python / Java / C++) | Coding Practice & Projects |
 | 07 | 🎤 Interview Preparation | Technical & HR Interview Questions | Interview Practice |
+| 08 | 🧮Aptitude Prectice Questions Topic wise | [GFG](https://www.geeksforgeeks.org/aptitude/aptitude-test/) 
 
 ---
 
