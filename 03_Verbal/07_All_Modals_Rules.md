@@ -128,7 +128,7 @@ Used to express past habits or repeated actions that no longer happen.
 | Dare | Courage / Challenge | How dare you speak? |
 
 # 🔴 PART 3 – Important Error Spotting Questions
-# MODALS – Error Spotting Questions
+
 
 **Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant & Deloitte.
 
