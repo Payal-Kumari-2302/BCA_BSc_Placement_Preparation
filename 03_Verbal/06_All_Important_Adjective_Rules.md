@@ -154,7 +154,7 @@ ART 2: ERROR SPOTTING – 40 QUESTIONS
 
 Instructions: Identify the grammatically incorrect part of each sentence.
 
-🔴 PRIORITY 1 – Basic Adjective Rules
+## 🔴 PRIORITY 1 – Basic Adjective Rules
 
 Q1.
 
