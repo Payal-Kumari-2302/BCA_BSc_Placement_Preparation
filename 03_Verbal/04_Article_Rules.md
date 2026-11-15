@@ -394,38 +394,6 @@ Use The before country names containing words such as Kingdom, States or Republi
 
 ---
 
-# 🔴 PART 6 – QUICK REVISION STRUCTURES
-
-| Grammar Topic | Important Structure |
-|---|---|
-| A | A + Consonant Sound + Singular Noun |
-| An | An + Vowel Sound + Singular Noun |
-| Specific Noun | The + Specific Noun |
-| Unique Things | The + Unique Noun |
-| Superlative | The + Superlative Adjective |
-| Ordinal Number | The + First / Second / Third |
-| Profession | Subject + Be Verb + A / An + Profession |
-| Musical Instrument | Play + The + Instrument |
-| Exclamation | What + A / An + Adjective + Noun! |
-| Rate / Frequency | A / An + Unit |
-| Same | The + Same + Noun |
-| Only | The + Only + Noun |
-| Few | Few + Plural Countable Noun |
-| A Few | A Few + Plural Countable Noun |
-| Little | Little + Uncountable Noun |
-| A Little | A Little + Uncountable Noun |
-| Languages | Language Name (No Article) |
-| Meals | Meal Name (No Article) |
-| Proper Nouns | Proper Noun (Generally No Article) |
-| General Plural Nouns | Plural Noun (No Article) |
-| Uncountable Nouns | Uncountable Noun (No Article) |
-| Rivers | The + River Name |
-| Oceans | The + Ocean Name |
-| Mountain Ranges | The + Mountain Range |
-| Individual Peaks | Mount + Name |
-| Deserts | The + Desert Name |
-| Country Names | The + Certain Country Names |
-| Institutions | Go To + Institution (No Article for Primary Purpose) |
 
 ---
 
@@ -441,12 +409,4 @@ Use The before country names containing words such as Kingdom, States or Republi
 | Institutions | Medium | School, College, Prison |
 | Error Spotting | Very High | Missing and Incorrect Articles |
 
-## Final Preparation Strategy
 
-1. Understand A, An and The.
-2. Memorize sound-based article rules.
-3. Revise zero-article rules.
-4. Practise geographical names and special expressions.
-5. Solve mixed error-spotting questions regularly.
-
-**Target:** Achieve 80%+ accuracy in article-based placement grammar and error-spotting questions.
