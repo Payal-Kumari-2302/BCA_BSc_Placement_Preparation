@@ -258,7 +258,7 @@ He (A) / is cleverer (B) / than any other student (C) / in the class (D).
 
 Answer: D – No Error
 
-🟡 PRIORITY 2 – Adjective Usage & Structures
+## 🟡 PRIORITY 2 – Adjective Usage & Structures
 
 Q16.
 
@@ -365,7 +365,7 @@ There (A) / are less students (B) / in this classroom (C) / today (D).
 Answer: B – are less students
 Correction: There are fewer students in this classroom today.
 
-🟢 PRIORITY 3 – Advanced Adjective Rules
+## 🟢 PRIORITY 3 – Advanced Adjective Rules
 
 Q31.
 
