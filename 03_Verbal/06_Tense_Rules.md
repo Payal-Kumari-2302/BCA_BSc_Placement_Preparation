@@ -1,7 +1,6 @@
 # TENSE – Important Grammar Rules & Error Spotting
 
-**Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.
-
+**Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.  
 **Target Audience:** BCA Students & Freshers
 
 ## Definition
@@ -38,7 +37,7 @@ Tense indicates the time of an action or event (Present, Past or Future).
 ### Rule 4: Present Perfect Continuous Tense
 **Use:** Actions that started in the past and are still continuing.
 
-**Structure:** Subject + has/have + been + V1-ing + since/for + Time
+**Structure:** Subject + has/have + been + V1-ing + Since/For + Time
 
 - She has been studying for two hours.
 - He has been working since morning.
@@ -54,7 +53,7 @@ Tense indicates the time of an action or event (Present, Past or Future).
 - She completed her project.
 
 ### Rule 6: Past Continuous Tense
-**Use:** Actions that were continuing at a particular time in the past.
+**Use:** Actions continuing at a particular time in the past.
 
 **Structure:** Subject + was/were + V1-ing + Object
 
@@ -72,7 +71,7 @@ Tense indicates the time of an action or event (Present, Past or Future).
 ### Rule 8: Past Perfect Continuous Tense
 **Use:** An action that continued for some time before another past event.
 
-**Structure:** Subject + had been + V1-ing + since/for + Time
+**Structure:** Subject + had been + V1-ing + Since/For + Time
 
 - He had been working for three hours before I arrived.
 - They had been waiting since morning.
@@ -88,7 +87,7 @@ Tense indicates the time of an action or event (Present, Past or Future).
 - They will complete the project.
 
 ### Rule 10: Future Continuous Tense
-**Use:** Actions that will be continuing at a particular time in the future.
+**Use:** Actions continuing at a particular time in the future.
 
 **Structure:** Subject + will be + V1-ing + Object
 
@@ -96,7 +95,7 @@ Tense indicates the time of an action or event (Present, Past or Future).
 - They will be working at 10 AM.
 
 ### Rule 11: Future Perfect Tense
-**Use:** Actions that will be completed before a specific future time.
+**Use:** Actions completed before a specific future time.
 
 **Structure:** Subject + will have + V3 + Object
 
@@ -104,101 +103,82 @@ Tense indicates the time of an action or event (Present, Past or Future).
 - They will have reached home by evening.
 
 ### Rule 12: Future Perfect Continuous Tense
-**Use:** Actions that will have continued for a period up to a specific future time.
+**Use:** Actions continuing up to a specific future time.
 
-**Structure:** Subject + will have been + V1-ing + since/for + Time
+**Structure:** Subject + will have been + V1-ing + Since/For + Time
 
 - He will have been working for five hours by 6 PM.
 - She will have been studying for two years by next June.
 
-🟡 PART 2 – Additional Tense Rules for Placement
+# 🟡 PART 2 – Additional Tense Rules for Placement
 
-Rule 1: Since and For
+### Rule 1: Since and For
+**Definition:** Since indicates a starting point; For indicates a duration.
 
-Definition: Since indicates a starting point; For indicates a duration.
+**Structure:** Since + Starting Point | For + Period of Time
 
-Structure: Since + Starting Point | For + Period of Time
+- She has been working since 2022.
+- She has been working for four years.
 
-She has been working since 2022.
+### Rule 2: Universal Truth
+**Definition:** Universal facts always use Simple Present Tense.
 
-She has been working for four years.
+**Structure:** Subject + V1(s/es) + Object
 
-Rule 2: Universal Truth
+- The sun rises in the east.
+- Water boils at 100°C at standard atmospheric pressure.
 
-Definition: Universal facts always use Simple Present Tense.
+### Rule 3: Past Continuous + Simple Past
+**Definition:** An ongoing past action interrupted by another past action.
 
-Structure: Subject + V1(s/es) + Object
+**Structure:** Subject + was/were + V1-ing + When + Subject + V2
 
-The sun rises in the east.
+- I was sleeping when he called me.
+- She was cooking when I arrived.
 
-Water boils at 100°C at standard atmospheric pressure.
+### Rule 4: Earlier and Later Past Actions
+**Definition:** The earlier past action takes Past Perfect; the later action takes Simple Past.
 
-Rule 3: Past Continuous + Simple Past
+**Structure:** Subject + had + V3 + Before + Subject + V2
 
-Definition: An ongoing past action interrupted by another past action.
+- The train had left before we reached the station.
+- She had completed her work before I arrived.
 
-Structure: Was/Were + V1-ing + When + Subject + V2
+### Rule 5: No Will After Time Conjunctions
+**Definition:** Use Simple Present instead of Will in future time clauses.
 
-I was sleeping when he called me.
+**Structure:** When/Until/Before/After/As Soon As + Subject + V1(s/es)
 
-She was cooking when I arrived.
+- Incorrect: I will call you when I will arrive.
+- Correct: I will call you when I arrive.
 
-Rule 4: Earlier and Later Past Actions
+### Rule 6: By + Future Deadline
+**Definition:** Use Future Perfect for actions completed before a future deadline.
 
-Definition: The earlier past action takes Past Perfect; the later action takes Simple Past.
+**Structure:** Subject + will have + V3 + By + Future Time
 
-Structure: Subject + Had + V3 + Before + Subject + V2
+- She will have completed the task by tomorrow.
+- They will have finished the project by Monday.
 
-The train had left before we reached the station.
+### Rule 7: Stative Verbs
+**Definition:** Stative verbs generally do not use continuous forms.
 
-She had completed her work before I arrived.
+**Structure:** Subject + Stative Verb + Object
 
-Rule 5: No Will After Time Conjunctions
+**Examples:** Know, Believe, Understand, Own, Belong, Prefer, Love.
 
-Definition: Use Simple Present instead of Will in future time clauses.
+- Incorrect: I am knowing the answer.
+- Correct: I know the answer.
 
-Structure: When/Until/Before/After/As Soon As + Subject + V1(s/es)
+### Rule 8: Present Perfect vs Simple Past
+**Definition:** Definite past time uses Simple Past; unspecified past time with present relevance uses Present Perfect.
 
-Incorrect: I will call you when I will arrive.
+**Structure:**
+- Definite Past Time → Subject + V2
+- Unspecified Past Time → Subject + has/have + V3
 
-Correct: I will call you when I arrive.
-
-Rule 6: By + Future Deadline
-
-Definition: Use Future Perfect for actions completed before a future deadline.
-
-Structure: Subject + Will Have + V3 + By + Future Time
-
-She will have completed the task by tomorrow.
-
-They will have finished the project by Monday.
-
-Rule 7: Stative Verbs
-
-Definition: Stative verbs generally do not use continuous forms.
-
-Structure: Subject + Stative Verb + Object
-
-Examples: Know, Believe, Understand, Own, Belong, Prefer, Love.
-
-Incorrect: I am knowing the answer.
-
-Correct: I know the answer.
-
-Rule 8: Present Perfect vs Simple Past
-
-Definition: Definite past time uses Simple Past; unspecified past time with present relevance uses Present Perfect.
-
-Structure:
-
-Definite Past Time → Subject + V2
-
-Unspecified Past Time → Subject + Has/Have + V3
-
-I saw him yesterday.
-
-I have seen him before.
-
+- I saw him yesterday.
+- I have seen him before.
 
 # 🟡 PART 3 – Important Time Indicators
 
@@ -221,13 +201,13 @@ I have seen him before.
 
 **Instructions:** Identify the part of the sentence that contains a grammatical error. If there is no error, choose (D).
 
-### Questions (1–50)
+## Questions (1–25)
 
 **Q1.** She go to college / every day / by bus.  
 (A) She go to college  
 (B) every day  
 (C) by bus  
-(D) No error  
+(D) No error
 
 **Answer:** (A) go → goes
 
@@ -235,7 +215,7 @@ I have seen him before.
 (A) He is knowing  
 (B) the answer  
 (C) to this question  
-(D) No error  
+(D) No error
 
 **Answer:** (A) is knowing → knows
 
@@ -243,7 +223,7 @@ I have seen him before.
 (A) I have completed  
 (B) my assignment  
 (C) yesterday  
-(D) No error  
+(D) No error
 
 **Answer:** (A) have completed → completed
 
@@ -251,7 +231,7 @@ I have seen him before.
 (A) They has been working  
 (B) in this company  
 (C) for five years  
-(D) No error  
+(D) No error
 
 **Answer:** (A) has → have
 
@@ -259,7 +239,7 @@ I have seen him before.
 (A) Did you went  
 (B) to the office  
 (C) yesterday  
-(D) No error  
+(D) No error
 
 **Answer:** (A) went → go
 
@@ -267,7 +247,7 @@ I have seen him before.
 (A) She was study  
 (B) when I called  
 (C) her yesterday  
-(D) No error  
+(D) No error
 
 **Answer:** (A) study → studying
 
@@ -275,7 +255,7 @@ I have seen him before.
 (A) He has went  
 (B) to the market  
 (C) with his friends  
-(D) No error  
+(D) No error
 
 **Answer:** (A) went → gone
 
@@ -283,7 +263,7 @@ I have seen him before.
 (A) I am living  
 (B) here since 2020  
 (C) with my family  
-(D) No error  
+(D) No error
 
 **Answer:** (A) am living → have been living
 
@@ -291,7 +271,7 @@ I have seen him before.
 (A) The sun  
 (B) is rising  
 (C) in the east  
-(D) No error  
+(D) No error
 
 **Answer:** (B) is rising → rises
 
@@ -299,7 +279,7 @@ I have seen him before.
 (A) She will comes  
 (B) to the office  
 (C) tomorrow  
-(D) No error  
+(D) No error
 
 **Answer:** (A) comes → come
 
@@ -307,15 +287,15 @@ I have seen him before.
 (A) I was sleeping  
 (B) when he was arrived  
 (C) at my house  
-(D) No error  
+(D) No error
 
 **Answer:** (B) was arrived → arrived
 
-**Q12.** He had completed / his work / before I had arrived.  
+**Q12.** He had completed / his work / before I arrived.  
 (A) He had completed  
 (B) his work  
-(C) before I had arrived  
-(D) No error  
+(C) before I arrived  
+(D) No error
 
 **Answer:** (D) No error
 
@@ -323,7 +303,7 @@ I have seen him before.
 (A) She does not likes  
 (B) coffee  
 (C) in the morning  
-(D) No error  
+(D) No error
 
 **Answer:** (A) likes → like
 
@@ -331,7 +311,7 @@ I have seen him before.
 (A) They were playing  
 (B) cricket  
 (C) when it started raining  
-(D) No error  
+(D) No error
 
 **Answer:** (D) No error
 
@@ -339,7 +319,7 @@ I have seen him before.
 (A) I will call you  
 (B) when I will reach  
 (C) the station  
-(D) No error  
+(D) No error
 
 **Answer:** (B) will reach → reach
 
@@ -347,7 +327,7 @@ I have seen him before.
 (A) She has been studying  
 (B) since three hours  
 (C) for her examination  
-(D) No error  
+(D) No error
 
 **Answer:** (B) since → for
 
@@ -355,7 +335,7 @@ I have seen him before.
 (A) He did not completed  
 (B) the assignment  
 (C) on time  
-(D) No error  
+(D) No error
 
 **Answer:** (A) completed → complete
 
@@ -363,7 +343,7 @@ I have seen him before.
 (A) I have never saw  
 (B) such a beautiful place  
 (C) before  
-(D) No error  
+(D) No error
 
 **Answer:** (A) saw → seen
 
@@ -371,7 +351,7 @@ I have seen him before.
 (A) She is working  
 (B) in this company  
 (C) since last year  
-(D) No error  
+(D) No error
 
 **Answer:** (A) is working → has been working
 
@@ -379,7 +359,7 @@ I have seen him before.
 (A) By next month  
 (B) she will completed  
 (C) her training  
-(D) No error  
+(D) No error
 
 **Answer:** (B) will completed → will have completed
 
@@ -387,7 +367,7 @@ I have seen him before.
 (A) When I reached  
 (B) the station, the train  
 (C) already left  
-(D) No error  
+(D) No error
 
 **Answer:** (C) already left → had already left
 
@@ -395,7 +375,7 @@ I have seen him before.
 (A) He usually is going  
 (B) to the gym  
 (C) every morning  
-(D) No error  
+(D) No error
 
 **Answer:** (A) is going → goes
 
@@ -403,7 +383,7 @@ I have seen him before.
 (A) I am understanding  
 (B) your problem  
 (C) very clearly  
-(D) No error  
+(D) No error
 
 **Answer:** (A) am understanding → understand
 
@@ -411,7 +391,7 @@ I have seen him before.
 (A) She has finished  
 (B) her project  
 (C) two days ago  
-(D) No error  
+(D) No error
 
 **Answer:** (A) has finished → finished
 
@@ -419,15 +399,17 @@ I have seen him before.
 (A) They will be work  
 (B) on the project  
 (C) tomorrow morning  
-(D) No error  
+(D) No error
 
 **Answer:** (A) work → working
+
+## Questions (26–50)
 
 **Q26.** He has been waiting / for me / since two hours.  
 (A) He has been waiting  
 (B) for me  
 (C) since two hours  
-(D) No error  
+(D) No error
 
 **Answer:** (C) since → for
 
@@ -435,7 +417,7 @@ I have seen him before.
 (A) The students  
 (B) was preparing  
 (C) for their examination  
-(D) No error  
+(D) No error
 
 **Answer:** (B) was → were
 
@@ -443,7 +425,7 @@ I have seen him before.
 (A) I will have finish  
 (B) my work  
 (C) by tomorrow evening  
-(D) No error  
+(D) No error
 
 **Answer:** (A) finish → finished
 
@@ -451,7 +433,7 @@ I have seen him before.
 (A) She had been working  
 (B) in the company  
 (C) since five years before she resigned  
-(D) No error  
+(D) No error
 
 **Answer:** (C) since → for
 
@@ -459,7 +441,7 @@ I have seen him before.
 (A) He always forget  
 (B) to bring his documents  
 (C) to the office  
-(D) No error  
+(D) No error
 
 **Answer:** (A) forget → forgets
 
@@ -467,7 +449,7 @@ I have seen him before.
 (A) I have been knowing  
 (B) him  
 (C) for ten years  
-(D) No error  
+(D) No error
 
 **Answer:** (A) have been knowing → have known
 
@@ -475,7 +457,7 @@ I have seen him before.
 (A) She was cooking  
 (B) while her children  
 (C) were playing outside  
-(D) No error  
+(D) No error
 
 **Answer:** (D) No error
 
@@ -483,7 +465,7 @@ I have seen him before.
 (A) He will have been work  
 (B) here for five years  
 (C) by next June  
-(D) No error  
+(D) No error
 
 **Answer:** (A) work → working
 
@@ -491,7 +473,7 @@ I have seen him before.
 (A) As soon as he will arrive  
 (B) we will start  
 (C) the meeting  
-(D) No error  
+(D) No error
 
 **Answer:** (A) will arrive → arrives
 
@@ -499,7 +481,7 @@ I have seen him before.
 (A) She did not went  
 (B) to the interview  
 (C) yesterday  
-(D) No error  
+(D) No error
 
 **Answer:** (A) went → go
 
@@ -507,7 +489,7 @@ I have seen him before.
 (A) The baby has been sleeping  
 (B) for two hours  
 (C) when the phone rang  
-(D) No error  
+(D) No error
 
 **Answer:** (A) has been sleeping → had been sleeping
 
@@ -515,55 +497,55 @@ I have seen him before.
 (A) I am having  
 (B) two brothers  
 (C) and one sister  
-(D) No error  
+(D) No error
 
 **Answer:** (A) am having → have
 
-**Q38.** By the time you arrive / I will finish / my assignment.  
+**Q38.** By the time you arrive / I will have finish / my assignment.  
 (A) By the time you arrive  
-(B) I will finish  
+(B) I will have finish  
 (C) my assignment  
-(D) No error  
+(D) No error
 
-**Answer:** (B) will finish → will have finished
+**Answer:** (B) will have finish → will have finished
 
 **Q39.** He has not completed / his graduation / yet.  
 (A) He has not completed  
 (B) his graduation  
 (C) yet  
-(D) No error  
+(D) No error
 
 **Answer:** (D) No error
 
-**Q40.** When I entered the room / she slept / on the sofa.  
+**Q40.** When I entered the room / she was sleep / on the sofa.  
 (A) When I entered the room  
-(B) she slept  
+(B) she was sleep  
 (C) on the sofa  
-(D) No error  
+(D) No error
 
-**Answer:** (B) slept → was sleeping
+**Answer:** (B) was sleep → was sleeping
 
 **Q41.** The train leaves / at 6 AM / tomorrow morning.  
 (A) The train leaves  
 (B) at 6 AM  
 (C) tomorrow morning  
-(D) No error  
+(D) No error
 
 **Answer:** (D) No error
 
-**Q42.** He is always coming / late to the office / every day.  
-(A) He is always coming  
+**Q42.** He always coming / late to the office / every day.  
+(A) He always coming  
 (B) late to the office  
 (C) every day  
-(D) No error  
+(D) No error
 
-**Answer:** (A) is always coming → always comes
+**Answer:** (A) always coming → always comes
 
 **Q43.** She had went / to the market / before it started raining.  
 (A) She had went  
 (B) to the market  
 (C) before it started raining  
-(D) No error  
+(D) No error
 
 **Answer:** (A) went → gone
 
@@ -571,7 +553,7 @@ I have seen him before.
 (A) I will be waiting  
 (B) for you  
 (C) when you will arrive  
-(D) No error  
+(D) No error
 
 **Answer:** (C) will arrive → arrive
 
@@ -579,7 +561,7 @@ I have seen him before.
 (A) They have completed  
 (B) the project  
 (C) before the deadline last week  
-(D) No error  
+(D) No error
 
 **Answer:** (A) have completed → completed
 
@@ -587,7 +569,7 @@ I have seen him before.
 (A) She has been working  
 (B) here for 2022  
 (C) without any break  
-(D) No error  
+(D) No error
 
 **Answer:** (B) for → since
 
@@ -595,7 +577,7 @@ I have seen him before.
 (A) He was reading  
 (B) a newspaper  
 (C) when I entered the room  
-(D) No error  
+(D) No error
 
 **Answer:** (D) No error
 
@@ -603,7 +585,7 @@ I have seen him before.
 (A) I will have been living  
 (B) in Delhi  
 (C) since five years by next March  
-(D) No error  
+(D) No error
 
 **Answer:** (C) since → for
 
@@ -611,7 +593,7 @@ I have seen him before.
 (A) She has already submitted  
 (B) her application  
 (C) before the deadline yesterday  
-(D) No error  
+(D) No error
 
 **Answer:** (A) has already submitted → already submitted
 
@@ -619,9 +601,8 @@ I have seen him before.
 (A) If he works hard  
 (B) he will gets  
 (C) good results  
-(D) No error  
+(D) No error
 
 **Answer:** (B) will gets → will get
 
 ---
-
