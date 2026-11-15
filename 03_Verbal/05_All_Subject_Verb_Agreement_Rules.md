@@ -2,7 +2,6 @@
 
 **Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.
 
-**Target Audience:** BCA Students & Freshers
 
 ## Definition
 Subject–Verb Agreement means the verb must agree with its subject in number and person (singular subject → singular verb; plural subject → plural verb).
