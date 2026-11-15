@@ -81,7 +81,7 @@
 
 # 🟠 PRIORITY 2 
 
-– EXTRA GRAMMAR RULES
+- All Extra Grammer Rules
 
 **Preparation Level: Low – Additional Knowledge**
 
