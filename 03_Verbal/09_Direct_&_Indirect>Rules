@@ -1,0 +1,231 @@
+# DIRECT & INDIRECT SPEECH – Important Grammar Rules & Error Spotting
+
+**Target Companies:** TCS, TCS Ignite, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies  
+**Target Audience:** BCA Students & Freshers
+
+## Definition
+
+**Direct Speech:** The exact words spoken by a person are written within quotation marks.
+
+**Indirect Speech:** The speaker's words are reported without using quotation marks.
+
+Example:
+- Direct: He said, "I am happy."
+- Indirect: He said that he was happy.
+
+# 🔴 PART 1 – Important Rules & Structures
+
+### Rule 1: Change of Tense
+When the reporting verb is in the past tense, the tense of the reported speech generally changes one step back.
+
+| Direct Speech | Indirect Speech |
+|---|---|
+| Simple Present | Simple Past |
+| Present Continuous | Past Continuous |
+| Present Perfect | Past Perfect |
+| Present Perfect Continuous | Past Perfect Continuous |
+| Simple Past | Past Perfect |
+| Past Continuous | Past Perfect Continuous |
+| Will | Would |
+| Can | Could |
+| May | Might |
+| Shall | Should/Would |
+
+Example: He said, "I am busy." → He said that he was busy.
+
+### Rule 2: No Change in Tense
+**Structure:** Reporting Verb (Present/Future) + That + Reported Speech
+
+When the reporting verb is in the present or future tense, the tense generally does not change.
+
+Example: He says, "I am tired." → He says that he is tired.
+
+### Rule 3: Universal Truth
+**Structure:** Said + That + Present Tense
+
+Universal truths and scientific facts do not change their tense.
+
+Example: The teacher said, "The sun rises in the east." → The teacher said that the sun rises in the east.
+
+### Rule 4: Change of Pronouns
+Pronouns change according to the speaker, listener and context.
+
+- First Person → Changes according to the subject of the reporting verb.
+- Second Person → Changes according to the object of the reporting verb.
+- Third Person → Generally remains unchanged.
+
+Example: He said to me, "I like your book." → He told me that he liked my book.
+
+### Rule 5: Change of Time and Place
+When the reporting verb is in the past, time and place expressions generally change.
+
+| Direct Speech | Indirect Speech |
+|---|---|
+| Now | Then |
+| Today | That day |
+| Yesterday | The previous day |
+| Tomorrow | The next day |
+| Last night | The previous night |
+| Next week | The following week |
+| Ago | Before |
+| Here | There |
+| This | That |
+| These | Those |
+| Thus | So |
+
+### Rule 6: Assertive Sentences
+**Structure:** Subject + Said/Told + (That) + Subject + Verb
+
+Use that to connect the reported statement. That can be omitted.
+
+Example: He said, "I am ill." → He said that he was ill.
+
+### Rule 7: Said to → Told
+**Structure:** Said to + Person → Told + Person
+
+Use told when a listener is mentioned.
+
+Example: He said to me, "I am busy." → He told me that he was busy.
+
+### Rule 8: Yes/No Questions
+**Structure:** Asked + If/Whether + Subject + Verb
+
+Use if or whether and change the question into statement word order.
+
+Example: He said to me, "Are you ready?" → He asked me if I was ready.
+
+### Rule 9: WH-Questions
+**Structure:** Asked + WH-word + Subject + Verb
+
+Keep the question word but use statement word order.
+
+Example: She said to me, "Where do you live?" → She asked me where I lived.
+
+### Rule 10: Imperative Sentences
+**Structure:** Ordered/Requested/Advised + Object + To + V1
+
+Use to + V1 for commands, requests and advice.
+
+Example: He said to me, "Open the door." → He ordered me to open the door.
+
+### Rule 11: Negative Imperative
+**Structure:** Ordered/Requested/Advised + Object + Not to + V1
+
+Use not to + V1 for negative commands and requests.
+
+Example: He said to me, "Do not run." → He advised me not to run.
+
+### Rule 12: Exclamatory Sentences
+**Structure:** Exclaimed with Joy/Sorrow/Surprise + That + Sentence
+
+Change the exclamatory sentence into a statement and remove the exclamation mark.
+
+Example: He said, "Hurrah! We won the match." → He exclaimed with joy that they had won the match.
+
+### Rule 13: Optative Sentences
+**Structure:** Wished/Prayed + That + Subject + Might + V1
+
+Used for wishes, blessings and prayers.
+
+Example: He said, "May you succeed!" → He wished that I might succeed.
+
+### Rule 14: Modal Changes
+
+| Direct Speech | Indirect Speech |
+|---|---|
+| Can | Could |
+| May | Might |
+| Will | Would |
+| Shall | Should/Would |
+| Must | Had to (necessity) |
+| Could | Could |
+| Would | Would |
+| Should | Should |
+| Might | Might |
+| Ought to | Ought to |
+
+# 🔴 PART 2 – Important Error Spotting Questions
+
+### Q1.
+He said (A) / that he is (B) / very tired (C) / No error (D).
+
+**Answer:** B – that he was  
+**Rule:** Past reporting verb + Backshift of tense.
+
+### Q2.
+She told (A) / that she was (B) / feeling unwell (C) / No error (D).
+
+**Answer:** A – She said  
+**Rule:** Told requires an object.
+
+### Q3.
+He said to me (A) / that he will (B) / help me (C) / No error (D).
+
+**Answer:** B – that he would  
+**Rule:** Will → Would.
+
+### Q4.
+The teacher said (A) / that the earth moved (B) / around the sun (C) / No error (D).
+
+**Answer:** B – that the earth moves  
+**Rule:** Universal truth does not change tense.
+
+### Q5.
+He asked me (A) / that whether I was (B) / ready for the exam (C) / No error (D).
+
+**Answer:** B – whether I was  
+**Rule:** Use either that or whether, not both.
+
+### Q6.
+She asked me (A) / where did I live (B) / in the city (C) / No error (D).
+
+**Answer:** B – where I lived  
+**Rule:** WH-question + Subject + Verb.
+
+### Q7.
+He ordered me (A) / to not open (B) / the door (C) / No error (D).
+
+**Answer:** B – not to open  
+**Rule:** Not to + V1.
+
+### Q8.
+She said to me (A) / that she had completed (B) / her assignment (C) / No error (D).
+
+**Answer:** A – She told me  
+**Rule:** Said to + Person → Told + Person.
+
+### Q9.
+He said (A) / that he can solve (B) / the problem (C) / No error (D).
+
+**Answer:** B – that he could solve  
+**Rule:** Can → Could (when backshift is required).
+
+### Q10.
+The teacher asked (A) / the students why were they (B) / making noise (C) / No error (D).
+
+**Answer:** B – why they were  
+**Rule:** WH-question + Subject + Verb.
+
+### Q11.
+He exclaimed with joy (A) / that he has won (B) / the competition (C) / No error (D).
+
+**Answer:** B – that he had won  
+**Rule:** Present Perfect → Past Perfect (when backshift is required).
+
+### Q12.
+She requested me (A) / to help her (B) / with the project (C) / No error (D).
+
+**Answer:** D – No error.
+
+# 🔴 PART 3 – Important Structures for Revision
+
+| Sentence Type | Indirect Speech Structure |
+|---|---|
+| Assertive | Said/Told + That + Subject + Verb |
+| Yes/No Question | Asked + If/Whether + Subject + Verb |
+| WH-Question | Asked + WH-word + Subject + Verb |
+| Imperative | Ordered/Requested + Object + To + V1 |
+| Negative Imperative | Ordered/Requested + Object + Not to + V1 |
+| Exclamatory | Exclaimed + That + Statement |
+| Optative | Wished/Prayed + That + Sentence |
+
