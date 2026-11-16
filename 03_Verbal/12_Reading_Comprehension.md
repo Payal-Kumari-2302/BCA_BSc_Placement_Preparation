@@ -141,7 +141,7 @@ D. Career success requires a combination of different skills.
 | 5 | D | Career success requires a combination of skills. |
 
 
-# The Paradox of Technological Progress
+# SET 1 – The Paradox of Technological Progress
 
 Technological advancement is often regarded as an unquestionable indicator of societal progress. Innovations in communication, transportation and healthcare have undoubtedly improved the quality of human life. However, the assumption that every technological development necessarily benefits society deserves closer examination.
 
