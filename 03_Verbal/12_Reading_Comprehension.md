@@ -1,8 +1,22 @@
 # 📖 Reading Comprehension – Practice Sets
 
-**Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte  
-**Practice Sources:** IndiaBix, PrepInsta, GeeksforGeeks  
-**Difficulty:** Moderate – Hard
+# 📖 Reading Comprehension – Daily Practice
+
+**Daily Target: 10–15 Minutes | Minimum 2 Passages**
+
+### Daily Practice Rules
+- Solve at least **2 Reading Comprehension passages every day**.
+- Spend 10–15 minutes daily on RC practice.
+- Focus on reading speed, comprehension and accuracy.
+- Practise inference, vocabulary, central idea and factual questions.
+- Analyse incorrect answers and understand the explanations.
+- Gradually increase the difficulty level.
+
+**Practice Sources:** IndiaBix, PrepInsta, TCS NQT & GeeksforGeeks.
+
+**Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.
+
+**Difficulty Level:** Moderate – Hard
 ---
 
 # SET 1 – Technology & Automation
