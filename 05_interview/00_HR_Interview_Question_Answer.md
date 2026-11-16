@@ -219,6 +219,48 @@ Teamwork means working together, sharing ideas, helping each other, and achievin
 ### ⭐ 24. Have You Faced Conflicts in a Team? How Did You Resolve Them?
 
 Yes, during a college project, we had different opinions in the team. I resolved the situation by listening to everyone's ideas and suggesting a common approach. This helped us work smoothly together.
+
+
+
+# 🔴 Part 04 – Situational Interview (4 Questions)
+
+### ⭐ 25. What Will You Do If You Make a Mistake in a Live Project?
+
+If I make a mistake, I will accept it, inform my team leader, and try to fix it as soon as possible. I will also learn from it to avoid making the same mistake again.
+
+---
+
+### ⭐ 26. What Will You Do If Your Manager Rejects Your Solution?
+
+I will take it positively, understand my manager's feedback, and try to improve my solution. I am always ready to learn and accept suggestions.
+
+---
+
+### ⭐ 27. What Will You Do If the Client Is Unhappy with Your Work?
+
+I will listen to the client's concerns carefully, understand the problem, and try to solve it. I will also take feedback to improve my work.
+
+---
+
+### ⭐ 28. What Will You Do If You Have a Disagreement with Your Team Leader?
+
+I will listen to my team leader's opinion and politely share my point of view. I will try to understand their perspective and find the best solution.
+
+---
+
+# 🔴 Part 05 – Company-Specific Interview (2 Questions)
+
+### ⭐ 29. What Do You Know About the Company You Are Applying To?
+
+I know that your organization is well-established and provides good career and learning opportunities. It encourages employees to improve their skills and grow professionally. I would be happy to be a part of your organization and contribute to its success.
+
+---
+
+### ⭐ 30. What Do You Know About TCS Smart Hiring and Ignite?
+
+TCS Smart Hiring provides opportunities for science graduates, including BCA students, to start their careers in IT.
+
+TCS Ignite is a training program that helps selected candidates develop industry-related IT skills and build a career in technology.
 ## 📌 Preparation Tips
 
 - Understand the answers instead of memorizing them.
