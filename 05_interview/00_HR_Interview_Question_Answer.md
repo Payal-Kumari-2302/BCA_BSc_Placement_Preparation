@@ -158,8 +158,7 @@ My final-year project was a Facial Recognition Attendance System developed using
 
 ### ⭐ 14. What Was Your Role in the Project?
 
-I was involved in developing the project, writing Python code, managing the database, and testing the system. I also helped identify and solve technical issues during development.
-
+My main role was to write Python code for the project. I also helped connect the project with the SQL database and test the system to make sure it worked properly.
 ---
 
 ### ⭐ 15. What Technologies Are You Comfortable With?
