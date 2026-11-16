@@ -189,6 +189,36 @@ I stay calm, break the task into smaller steps, and prioritize my work. This hel
 
 I prioritize tasks based on their urgency and importance. Then, I complete them one by one while keeping track of deadlines.
 
+
+# Part 03 – Behavioral Interview (5 Questions)
+
+### ⭐ 20. Describe a Challenging Situation and How You Handled It.
+
+I struggled with a difficult subject in college. So, I made a study plan, practised daily, and focused on improving my weak areas. As a result, my performance improved significantly.
+
+---
+
+### ⭐ 21. Have You Ever Failed? What Did You Learn from It?
+
+Yes, I have faced failures in my academic journey. I learned that failure is a part of learning. It taught me to stay positive, identify my mistakes, and work harder to improve myself.
+
+---
+
+### ⭐ 22. How Do You Handle Criticism?
+
+I take criticism positively, understand the feedback, and use it to improve my work. It helps me learn from my mistakes and perform better next time.
+
+---
+
+### ⭐ 23. What Does Teamwork Mean to You?
+
+Teamwork means working together, sharing ideas, helping each other, and achieving a common goal. I enjoy working in a team and supporting my teammates.
+
+---
+
+### ⭐ 24. Have You Faced Conflicts in a Team? How Did You Resolve Them?
+
+Yes, during a college project, we had different opinions in the team. I resolved the situation by listening to everyone's ideas and suggesting a common approach. This helped us work smoothly together.
 ## 📌 Preparation Tips
 
 - Understand the answers instead of memorizing them.
