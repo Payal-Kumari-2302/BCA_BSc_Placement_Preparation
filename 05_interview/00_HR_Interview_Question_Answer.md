@@ -147,6 +147,49 @@ There was a gap after my 12th due to some personal reasons. During that time, I 
 
 ---
 
+
+# Part 02 – Managerial Interview (7 Questions)
+
+### ⭐ 13. Explain Your Final-Year Project.
+
+My final-year project was a Facial Recognition Attendance System developed using Python and SQL. It uses face recognition to identify students and automatically mark their attendance. This project helped me improve my programming, database management, and problem-solving skills.
+
+---
+
+### ⭐ 14. What Was Your Role in the Project?
+
+I was involved in developing the project, writing Python code, managing the database, and testing the system. I also helped identify and solve technical issues during development.
+
+---
+
+### ⭐ 15. What Technologies Are You Comfortable With?
+
+I am comfortable with Python and have basic knowledge of SQL, DBMS, C, Java, and OOPs concepts. I am also interested in learning new technologies.
+
+---
+
+### ⭐ 16. What Will You Do If Your Manager Assigns Work Outside Your Skill Set?
+
+I will take it as a learning opportunity. I will understand the task, learn the required skills, and ask for guidance whenever needed. I will try my best to complete it on time.
+
+---
+
+### ⭐ 17. What Will You Do If Your Team Member Is Not Working?
+
+First, I will communicate with my team member and try to understand the problem. I will offer help and encourage them to contribute so that we can complete the work together.
+
+---
+
+### ⭐ 18. How Do You Handle Pressure and Tight Deadlines?
+
+I stay calm, break the task into smaller steps, and prioritize my work. This helps me stay focused and complete tasks effectively, even under pressure.
+
+---
+
+### ⭐ 19. How Do You Manage Multiple Tasks?
+
+I prioritize tasks based on their urgency and importance. Then, I complete them one by one while keeping track of deadlines.
+
 ## 📌 Preparation Tips
 
 - Understand the answers instead of memorizing them.
