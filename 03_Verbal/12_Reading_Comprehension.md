@@ -4,19 +4,18 @@
 
 **Daily Target: 10–15 Minutes | Minimum 2 Passages**
 
-### Daily Practice Rules
-- Solve at least **2 Reading Comprehension passages every day**.
-- Spend 10–15 minutes daily on RC practice.
-- Focus on reading speed, comprehension and accuracy.
-- Practise inference, vocabulary, central idea and factual questions.
-- Analyse incorrect answers and understand the explanations.
-- Gradually increase the difficulty level.
+### Practice Rules
+- Solve at least 2 passages daily.
+- Attempt all questions yourself before checking answers.
+- Analyse incorrect answers after checking.
+- Focus on speed, accuracy, inference and vocabulary.
+- Gradually increase difficulty.
 
-**Practice Sources:** IndiaBix, PrepInsta, TCS NQT & GeeksforGeeks.
-
-**Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte & Other IT Companies.
+**Sources:** IndiaBix, PrepInsta, TCS NQT & GeeksforGeeks.
 
 **Difficulty Level:** Moderate – Hard
+
+
 ---
 
 # SET 1 – Technology & Automation
@@ -140,4 +139,62 @@ D. Career success requires a combination of different skills.
 | 3 | B | Employers value practical and interpersonal skills. |
 | 4 | B | Interpersonal means relating to communication between people. |
 | 5 | D | Career success requires a combination of skills. |
+
+
+# The Paradox of Technological Progress
+
+Technological advancement is often regarded as an unquestionable indicator of societal progress. Innovations in communication, transportation and healthcare have undoubtedly improved the quality of human life. However, the assumption that every technological development necessarily benefits society deserves closer examination.
+
+One significant consequence of technological progress is the growing dependence on automated systems. Although automation increases productivity and minimises human error in repetitive tasks, it can also weaken certain skills when individuals rely excessively on technology. For instance, navigation applications have made travelling more convenient, but constant dependence on them may reduce people's ability to interpret maps or remember routes independently.
+
+Furthermore, technological benefits are not distributed equally. While developed economies often possess the infrastructure and resources necessary to adopt advanced technologies, less developed regions may struggle to access them. This disparity can widen existing economic inequalities rather than eliminate them.
+
+Nevertheless, rejecting technological advancement is neither practical nor desirable. The real objective should be to ensure that innovation complements human capabilities instead of replacing independent thinking. Societies must therefore balance technological efficiency with education, accessibility and responsible usage.
+
+## Questions
+
+**Q1. What is the central argument of the passage?**
+
+A. Technological development should be completely restricted.  
+B. Technological progress always improves living standards.  
+C. Technological advancement requires balanced and responsible implementation.  
+D. Developed countries should stop investing in technology.
+
+**Q2. What does the author imply about excessive dependence on technology?**
+
+A. It necessarily improves human intelligence.  
+B. It may weaken certain independent abilities.  
+C. It eliminates the need for education.  
+D. It makes automated systems less productive.
+
+**Q3. Which of the following can be inferred from the passage?**
+
+A. Every region benefits equally from technological innovation.  
+B. Economic inequality can increase due to unequal technological access.  
+C. Automation is responsible for all economic inequalities.  
+D. Developed economies do not experience technological challenges.
+
+**Q4. What is the meaning of "disparity" in the passage?**
+
+A. Similarity  
+B. Difference or inequality  
+C. Improvement  
+D. Cooperation
+
+**Q5. Which statement would the author most likely disagree with?**
+
+A. Technology should complement human abilities.  
+B. Innovation should be accessible to different sections of society.  
+C. Technological efficiency should be balanced with responsible usage.  
+D. Every technological innovation is necessarily beneficial to society.
+
+## Answers
+
+| Question | Correct Answer |
+|---|---|
+| Q1 | C |
+| Q2 | B |
+| Q3 | B |
+| Q4 | B |
+| Q5 | D |
 
