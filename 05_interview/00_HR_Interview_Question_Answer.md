@@ -5,6 +5,7 @@
 This repository contains important HR interview questions and answers for BCA students and freshers preparing for campus placements and entry-level IT jobs.
 
 ## 🎯 Objective
+
 - Prepare for common HR interview questions.
 - Improve communication and confidence.
 - Develop professional interview skills.
@@ -56,7 +57,7 @@ One of my weaknesses is that sometimes I overthink before making decisions becau
 
 ---
 
-### 4. What Is Your Salary Expectation?
+### ⭐ 4. What Is Your Salary Expectation?
 
 As a fresher, my primary focus is on starting my career, gaining practical experience, and developing my professional skills.
 
@@ -64,7 +65,7 @@ I expect a salary that is fair for the role and aligned with the company's stand
 
 ---
 
-### 5. Do You Consider Yourself Successful?
+### ⭐ 5. Do You Consider Yourself Successful?
 
 Yes, I consider myself successful because I never give up and keep learning from every situation.
 
@@ -128,6 +129,24 @@ Yes, Sir/Ma'am. I would like to know what qualities and skills you expect from a
 
 ---
 
+### ⭐ 13. Why Did You Choose BCA?
+
+I chose BCA because I have an interest in computers and technology. I wanted to learn programming, software development, and improve my technical skills.
+
+---
+
+### ⭐ 14. Why Did You Choose BCA Instead of B.Tech?
+
+I chose BCA because it focuses on computer applications, programming, and software development. It matches my interests and career goals.
+
+---
+
+### ⭐ 15. Why Was There an Education Gap After 12th?
+
+There was a gap after my 12th due to some personal reasons. During that time, I focused on my future goals and continued preparing for my higher education. After that, I joined BCA to build my career in IT.
+
+---
+
 ## 📌 Preparation Tips
 
 - Understand the answers instead of memorizing them.
@@ -143,7 +162,7 @@ Yes, Sir/Ma'am. I would like to know what qualities and skills you expect from a
 
 | Details | Information |
 |---|---|
-| Total Questions | 12 |
+| Total Questions | 15 |
 | Category | HR Interview |
 | Target Audience | BCA Students & Freshers |
 | Interview Type | Campus & Off-Campus |
