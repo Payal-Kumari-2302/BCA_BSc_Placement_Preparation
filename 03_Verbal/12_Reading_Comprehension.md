@@ -198,3 +198,243 @@ D. Every technological innovation is necessarily beneficial to society.
 | Q4 | B |
 | Q5 | D |
 
+
+Passage 1 – Technology & Artificial Intelligence
+
+Difficulty: Hard
+Questions: 1–6
+
+Artificial intelligence has increasingly become an integral part of modern decision-making systems. From recruitment processes to financial risk assessment, algorithms are being used to evaluate information and recommend decisions that were traditionally made by human experts. Supporters argue that these systems improve efficiency, reduce operational costs, and minimize human errors. However, the assumption that automated decisions are necessarily objective remains questionable.
+
+Algorithms are developed using historical data, which often reflects existing social and institutional inequalities. When such data contains biased patterns, an algorithm may reproduce or even amplify those biases. For instance, a recruitment system trained on historical hiring records may unintentionally favour candidates from backgrounds that were previously overrepresented in an organisation. Although the system may appear mathematically consistent, its outcomes may still be socially unfair.
+
+Another concern is the increasing difficulty of understanding how certain complex algorithms arrive at their conclusions. In some cases, even their developers cannot easily explain why a particular recommendation was generated. This lack of transparency becomes particularly problematic when decisions affect people's employment, financial opportunities, or access to essential services.
+
+Nevertheless, rejecting artificial intelligence altogether would be an equally simplistic response. These technologies can provide valuable assistance when combined with appropriate human supervision, transparent evaluation methods, and regular audits. The real challenge, therefore, is not whether machines should make decisions, but how society can ensure that their decisions remain accountable, explainable, and fair.
+
+Questions 1–6
+
+Q1. What is the central argument of the passage?
+
+A. Artificial intelligence should completely replace human decision-makers.
+
+B. Automated decision-making requires proper oversight to ensure fairness and accountability.
+
+C. Historical data is always unsuitable for training algorithms.
+
+D. Human decision-making is more accurate than algorithmic decision-making.
+
+Q2. Why might an AI recruitment system favour certain candidates unfairly?
+
+A. It deliberately ignores all educational qualifications.
+
+B. It is programmed to reject candidates without experience.
+
+C. It may learn biased patterns from historical recruitment data.
+
+D. It cannot process information about candidates.
+
+Q3. What can be inferred from the statement that even developers may struggle to explain certain algorithmic decisions?
+
+A. All algorithms are developed without human involvement.
+
+B. Complex automated systems may lack sufficient interpretability.
+
+C. Algorithms cannot produce consistent results.
+
+D. Developers intentionally hide every decision from users.
+
+Q4. Which of the following best describes the author's attitude towards artificial intelligence?
+
+A. Completely supportive.
+
+B. Strongly dismissive.
+
+C. Cautiously balanced.
+
+D. Indifferent.
+
+Q5. The word "amplify" in the second paragraph most nearly means:
+
+A. Reduce.
+
+B. Intensify.
+
+C. Eliminate.
+
+D. Conceal.
+
+Q6. Which statement is NOT supported by the passage?
+
+A. AI can reduce operational costs.
+
+B. Historical data can contain social inequalities.
+
+C. Human supervision can help improve accountability.
+
+D. Algorithmic decisions are automatically free from social bias.
+
+✅ Answer Key – Passage 1
+
+Q.No.
+
+Correct Answer
+
+Explanation
+
+1
+
+B
+
+AI requires human supervision and accountability to ensure fairness.
+
+2
+
+C
+
+Historical recruitment data may contain biased patterns.
+
+3
+
+B
+
+Complex algorithms may lack interpretability and transparency.
+
+4
+
+C
+
+The author discusses both advantages and disadvantages of AI.
+
+5
+
+B
+
+Amplify means to increase or intensify something.
+
+6
+
+D
+
+The passage clearly questions the assumption that automated decisions are always
+
+
+
+Passage 2 – Education, Employment & Critical Thinking
+
+Difficulty: Very Hard
+Questions: 7–12
+
+The relationship between education and employability has become increasingly complicated in an economy shaped by rapid technological transformation. Traditionally, educational institutions were expected to provide students with specialised knowledge that would remain useful throughout their professional lives. However, the growing speed of technological change has challenged this assumption. Skills that are highly valued today may become less relevant within a few years, forcing individuals to continuously adapt.
+
+In response, many institutions have begun emphasising practical training, industry-oriented courses, and technical certifications. While these initiatives can improve immediate employment prospects, they sometimes encourage a narrow understanding of education, in which learning is valued primarily for its measurable economic returns. Consequently, subjects that develop critical thinking, ethical reasoning, communication, and intellectual curiosity may receive less attention because their benefits are harder to quantify.
+
+Yet, employers increasingly require individuals who can do more than perform predefined technical tasks. Employees must interpret unfamiliar situations, evaluate competing information, communicate effectively, and make decisions under uncertainty. These abilities cannot always be developed through repetitive technical exercises alone. They require a deeper understanding of concepts and the ability to apply knowledge in unfamiliar contexts.
+
+This does not mean that practical skills and academic knowledge should be treated as opposing priorities. Rather, effective education should combine both. Technical competence may help an individual secure an initial opportunity, but adaptability and independent thinking often determine how successfully that individual progresses over time. Therefore, the purpose of education should not be limited to preparing students for their first employment opportunity; it should also prepare them to navigate professional environments that may not yet exist.
+
+Questions 7–12
+
+Q7. What is the primary concern raised by the author regarding modern education?
+
+A. Educational institutions have completely abandoned technical training.
+
+B. Education is increasingly being evaluated through immediate economic outcomes.
+
+C. Employers no longer value specialised knowledge.
+
+D. Students are unwilling to pursue professional careers.
+
+Q8. Why does the author believe critical thinking and ethical reasoning deserve greater attention?
+
+A. They guarantee immediate employment in every industry.
+
+B. They eliminate the need for technical qualifications.
+
+C. They help individuals handle unfamiliar situations and complex decisions.
+
+D. They are easier to measure than technical skills.
+
+Q9. What does the phrase "benefits are harder to quantify" suggest in paragraph 2?
+
+A. These abilities have no practical value.
+
+B. Their outcomes cannot always be measured through simple numerical indicators.
+
+C. These abilities are irrelevant to professional development.
+
+D. Educational institutions deliberately avoid teaching them.
+
+Q10. Which of the following would the author most likely agree with?
+
+A. Technical certifications should replace traditional education.
+
+B. Academic knowledge is sufficient for long-term professional success.
+
+C. Education should integrate technical competence with independent thinking.
+
+D. Students should focus exclusively on skills demanded by current employers.
+
+Q11. What is the most appropriate interpretation of the final sentence?
+
+A. Educational institutions should predict every future job accurately.
+
+B. Education should prepare individuals for changing and unpredictable professional environments.
+
+C. Students should avoid entering industries that are technologically unstable.
+
+D. Employment opportunities will eventually disappear because of automation.
+
+Q12. Which title best captures the overall message of the passage?
+
+A. The Decline of Traditional Employment
+
+B. Why Technical Certifications Are Unnecessary
+
+C. Education Beyond Immediate Employability
+
+D. The Complete Replacement of Academic Learning
+
+✅ Answer Key – Passage 2
+
+Q.No.
+
+Correct Answer
+
+Explanation
+
+7
+
+B
+
+The author criticises evaluating education mainly through immediate economic returns.
+
+8
+
+C
+
+Critical thinking helps people deal with unfamiliar situations and complex decisions.
+
+9
+
+B
+
+These abilities are valuable but difficult to measure numerically.
+
+10
+
+C
+
+The author supports combining technical competence with independent thinking.
+
+11
+
+B
+
+Education should prepare students for uncertain and changing professional environments.
+
+12
+
+C
+
+The passage explains why education must go beyond immediate employment.
