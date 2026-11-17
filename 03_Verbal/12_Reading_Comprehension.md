@@ -9,6 +9,15 @@
 
 </div>
 
+## 📌 Recommended Practice Resources
+
+- [IndiaBix](https://www.indiabix.com/verbal-ability/reading-comprehension/)
+- [PrepInsta](https://prepinsta.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [TCS NQT Preparation](https://www.tcsion.com/)
+
+---
+
 ---
 
 ## 🎯 Objective
