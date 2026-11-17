@@ -4,10 +4,6 @@
 
 ### 🚀 Complete Reading Comprehension Preparation for IT Placements
 
-![Reading](https://img.shields.io/badge/Subject-Reading%20Comprehension-blue?style=for-the-badge)
-![Passages](https://img.shields.io/badge/Total%20Passages-5-green?style=for-the-badge)
-![Questions](https://img.shields.io/badge/Total%20Questions-28-orange?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Moderate--Very%20Hard-red?style=for-the-badge)
 
 **Target Exams:** TCS Ignite, TCS NQT, Wipro, Infosys, Accenture, Cognizant, Deloitte, Genpact & Other Placement Exams.
 
