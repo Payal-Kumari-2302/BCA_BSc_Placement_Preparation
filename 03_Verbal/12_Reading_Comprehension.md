@@ -383,12 +383,6 @@ D. The Complete Replacement of Academic Learning
 - Practise vocabulary through context rather than memorising meanings alone.
 - Do not spend too much time on a single question.
 
-## 📌 Recommended Practice Resources
-
-- [IndiaBix](https://www.indiabix.com/verbal-ability/reading-comprehension/)
-- [PrepInsta](https://prepinsta.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [TCS NQT Preparation](https://www.tcsion.com/)
 
 ---
 
