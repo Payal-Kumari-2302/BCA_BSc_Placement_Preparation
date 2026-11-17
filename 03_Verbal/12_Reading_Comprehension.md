@@ -12,8 +12,8 @@
 ## 📌 Recommended Practice Resources
 
 - [IndiaBix](https://www.indiabix.com/verbal-ability/comprehension/)
-- [PrepInsta](https://prepinsta.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [PrepInsta](https://prepinsta.com/reading-comprehension/questions/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/aptitude/reading-comprehension-solved-questions-and-answers/)
 - [TCS NQT Preparation](https://www.tcsion.com/)
 
 ---
