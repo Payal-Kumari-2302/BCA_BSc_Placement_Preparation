@@ -386,15 +386,7 @@ D. The Complete Replacement of Academic Learning
 
 ---
 
-# 📖 Reading Comprehension – Passage 1
-
-## Topic: The Hidden Cost of Convenience
-
-**Difficulty:** Hard  
-**Exam:** TCS / Wipro / Accenture / Cognizant  
-**Score:** 9/10
-
-## 1. Reading Passage
+## 06. Passage
 
 ### The Hidden Cost of Convenience
 
@@ -420,11 +412,6 @@ C) Algorithms are responsible for all poor decisions made by individuals.
 
 D) Modern technology has made traditional methods of learning unnecessary.
 
-**Answer: B) Convenience offered by technology must be balanced with independent thinking.**
-
-**Explanation:** Technology provides convenience, but people should maintain their ability to think and make independent decisions.
-
----
 
 ### Q2. What can be inferred about users who repeatedly receive similar recommendations?
 
@@ -436,11 +423,6 @@ C) They eventually stop using digital platforms.
 
 D) They become less interested in purchasing products.
 
-**Answer: B) They may mistake algorithmically influenced preferences for personal choices.**
-
-**Explanation:** Repeated recommendations can influence users' preferences, making them believe that suggested choices are their own decisions.
-
----
 
 ### Q3. According to the passage, why might instant services reduce people's patience?
 
@@ -452,11 +434,7 @@ C) They prevent people from accessing information.
 
 D) They encourage individuals to avoid technology.
 
-**Answer: A) They make individuals believe that waiting is unnecessary.**
 
-**Explanation:** Instant services create an expectation of immediate satisfaction, making people less willing to wait.
-
----
 
 ### Q4. What does the phrase "surrender certain aspects of their independence" suggest?
 
@@ -468,11 +446,7 @@ C) People become financially independent.
 
 D) People lose their ability to communicate.
 
-**Answer: B) People gradually allow external systems to influence their decisions.**
 
-**Explanation:** People become dependent on digital platforms and allow algorithms to influence their choices.
-
----
 
 ### Q5. Which of the following is the author's attitude towards technology?
 
@@ -484,11 +458,7 @@ C) Balanced and cautious.
 
 D) Indifferent and unconcerned.
 
-**Answer: C) Balanced and cautious.**
 
-**Explanation:** The author acknowledges the benefits of technology but also highlights its disadvantages.
-
----
 
 ### Q6. What does the author suggest is the most appropriate response to technological convenience?
 
@@ -500,11 +470,6 @@ C) Using technology while maintaining independent judgment.
 
 D) Avoiding all services that provide instant results.
 
-**Answer: C) Using technology while maintaining independent judgment.**
-
-**Explanation:** People should use technology consciously without allowing it to replace their decision-making ability.
-
----
 
 ### Q7. As used in the passage, the word "sustained" most nearly means:
 
@@ -516,11 +481,7 @@ C) Unexpected
 
 D) Unnecessary
 
-**Answer: B) Continuous over a period of time.**
 
-**Explanation:** Sustained refers to something that continues for a long period without stopping.
-
----
 
 ### Q8. Which statement would the author most likely agree with?
 
@@ -532,11 +493,7 @@ C) Technology can improve lives, but users should remain aware of its influence.
 
 D) Instant satisfaction always leads to better learning outcomes.
 
-**Answer: C) Technology can improve lives, but users should remain aware of its influence.**
 
-**Explanation:** Technology offers several benefits, but individuals should remain conscious of its influence on their decisions.
-
----
 
 ### Q9. What is the primary purpose of the third paragraph?
 
@@ -548,11 +505,7 @@ C) To explain why professional challenges should be avoided.
 
 D) To compare online shopping with traditional shopping.
 
-**Answer: A) To explain how instant convenience can influence patience and behaviour.**
 
-**Explanation:** The third paragraph discusses how instant services can reduce patience and affect learning and professional behaviour.
-
----
 
 ### Q10. Which of the following would be the most suitable title for the passage?
 
@@ -564,13 +517,27 @@ C) Convenience vs. Independent Thinking
 
 D) The Future of Online Shopping
 
-**Answer: C) Convenience vs. Independent Thinking.**
-
-**Explanation:** The entire passage focuses on balancing technological convenience with independent thinking.
 
 ---
 
-## 3. Important Vocabulary
+## 3. Answer Key
+
+| Q.No. | Correct Answer |
+|:---:|:---:|
+| 1 | B |
+| 2 | B |
+| 3 | A |
+| 4 | B |
+| 5 | C |
+| 6 | C |
+| 7 | B |
+| 8 | C |
+| 9 | A |
+| 10 | C |
+
+---
+
+## 4. Important Vocabulary
 
 | Word | Hindi Meaning |
 |---|---|
@@ -591,4 +558,3 @@ D) The Future of Online Shopping
 | Perspective | दृष्टिकोण |
 
 ---
-
