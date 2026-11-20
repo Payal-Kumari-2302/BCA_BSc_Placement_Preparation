@@ -33,10 +33,10 @@ It provides structured learning resources, coding practice, aptitude preparation
 | 03 | 📝 Verbal Ability | [PrepInsta](https://prepinsta.com/learn-verbal-english/) | [IndiaBIX](https://www.indiabix.com/verbal-ability/) |
 | 04 | 📊 Data Interpretation | [PrepInsta](https://prepinsta.com/learn-data-interpretation/) | [IndiaBIX](https://www.indiabix.com/data-interpretation/questions-and-answers/) |
 | 05 | 💻 Coding Practice | [Most Asked Coding Questions](https://prepinsta.com/interview-preparation/technical-interview-questions/most-asked-coding-questions-in-placements/) | [HackerRank](https://www.hackerrank.com/) 
-| 06 | 👨‍💻 Programming Language | Master one language (Python / Java / C++) | Coding Practice & Projects |
-| 07 | 🎤 Interview Preparation | Technical & HR Interview Questions | Interview Practice |
-| 08 | 🧮Aptitude Mock Test Topic wise | [GFG](https://www.geeksforgeeks.org/aptitude/aptitude-test/) 
-| 08 | 🧮Aptitude Mock Test Topic wise | [Career Ride](https://www.tutorialride.com/https://www.careerride.com/) 
+| 06 | 🧮Aptitude Mock Test Topic wise | [GFG](https://www.geeksforgeeks.org/aptitude/aptitude-test/) 
+| 07 | 🧮Aptitude Mock Test Topic wise | [Career Ride](https://www.careerride.com/)
+| 08 | 👨‍💻 Programming Language | Master one language (Python / Java / C++) | Coding Practice & Projects |
+| 09 | 🎤 Interview Preparation | Technical & HR Interview Questions | Interview Practice |
 
 ---
 
