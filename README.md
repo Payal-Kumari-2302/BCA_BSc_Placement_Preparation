@@ -36,6 +36,7 @@ It provides structured learning resources, coding practice, aptitude preparation
 | 06 | 👨‍💻 Programming Language | Master one language (Python / Java / C++) | Coding Practice & Projects |
 | 07 | 🎤 Interview Preparation | Technical & HR Interview Questions | Interview Practice |
 | 08 | 🧮Aptitude Mock Test Topic wise | [GFG](https://www.geeksforgeeks.org/aptitude/aptitude-test/) 
+| 08 | 🧮Aptitude Mock Test Topic wise | [Career Ride](https://www.tutorialride.com/https://www.careerride.com/) 
 
 ---
 
