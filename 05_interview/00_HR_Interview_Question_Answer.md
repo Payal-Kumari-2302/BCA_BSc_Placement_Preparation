@@ -34,9 +34,9 @@ Thank you!
 
 ### ⭐⭐⭐ 2. Why Should We Hire You?
 
-As a fresher, I have a good academic foundation and a strong willingness to learn. I am a quick learner, adaptable, and responsible.
+As a fresher, I have a good academic foundation and a egaer to learn. I am a quick learner, adaptable, and responsible.
 
-I am ready to accept new challenges, improve my skills, and give my best to the organization.
+I am ready to accept new challenges, improve my skills, and contribute consistently.
 
 ---
 
