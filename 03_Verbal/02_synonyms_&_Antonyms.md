@@ -275,17 +275,9 @@ You have approximately two months for placement preparation.
 | Day 51–55 | MCQ Practice | Attempt placement-level tests |
 | Day 56–60 | Mock Tests | Full revision and timed practice |
 
-### Daily Routine
 
-- 20 minutes – Learn new words.
-- 15 minutes – Revise previous words.
-- 20 minutes – Practice synonym MCQs.
-- 20 minutes – Practice antonym MCQs.
-- 10 minutes – Write difficult words in a notebook.
 
-**Daily Target:** 15–20 new words.
-
-**60-Day Target:** Approximately 500–700 vocabulary revision entries, including repeated revision.
+**60-Day Target:** Approximately 300+ vocabulary revision entries, including repeated revision.
 
 ---
 
@@ -337,7 +329,7 @@ Use these platforms for additional placement-level questions and practice.
 
 **Placement Vocabulary Preparation – 60 Days**
 
-- Learn 500+ useful vocabulary entries.
+- Learn 300+ useful vocabulary entries.
 - Revise all important synonyms and antonyms.
 - Practice MCQs from multiple placement platforms.
 - Improve verbal ability accuracy.
