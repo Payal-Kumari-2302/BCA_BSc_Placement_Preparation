@@ -775,6 +775,223 @@ SELECT * FROM IT_EMPLOYEES;
 ---
 
 
+
+
+
+
+# SQL – Important Difference Between Questions
+### BCA Fresher | TCS | Wipro | Infosys | Accenture | Cognizant
+
+## Priority 1 – Must Prepare
+
+### 1. DBMS vs RDBMS
+
+| DBMS | RDBMS |
+|---|---|
+| Manages databases. | Manages relational databases. |
+| Relationships may not be enforced. | Supports relationships using keys. |
+| Example: File-based systems. | Example: MySQL, Oracle. |
+
+### 2. SQL vs MySQL
+
+| SQL | MySQL |
+|---|---|
+| SQL is a query language. | MySQL is an RDBMS. |
+| Used to communicate with databases. | Used to store and manage data. |
+
+### 3. CHAR vs VARCHAR
+
+| CHAR | VARCHAR |
+|---|---|
+| Fixed-length string. | Variable-length string. |
+| Uses fixed storage length. | Uses storage based on actual data length, plus overhead. |
+| Suitable for fixed-size data. | Suitable for variable-size data. |
+
+### 4. DELETE vs DROP vs TRUNCATE
+
+| DELETE | DROP | TRUNCATE |
+|---|---|---|
+| Deletes rows. | Deletes the entire table. | Removes all rows. |
+| Supports WHERE. | Does not support WHERE. | Does not support WHERE. |
+| Table remains. | Table is removed. | Table remains. |
+| DML | DDL | DDL |
+
+### 5. DDL vs DML
+
+| DDL | DML |
+|---|---|
+| Defines database structure. | Modifies table data. |
+| CREATE, ALTER, DROP. | INSERT, UPDATE, DELETE. |
+
+### 6. WHERE vs HAVING
+
+| WHERE | HAVING |
+|---|---|
+| Filters individual rows. | Filters groups. |
+| Applied before GROUP BY. | Applied after GROUP BY. |
+| Cannot directly use aggregate conditions. | Can use aggregate functions. |
+
+### 7. GROUP BY vs ORDER BY
+
+| GROUP BY | ORDER BY |
+|---|---|
+| Groups similar records. | Sorts records. |
+| Commonly used with aggregate functions. | Uses ASC or DESC. |
+
+### 8. Primary Key vs Foreign Key
+
+| Primary Key | Foreign Key |
+|---|---|
+| Uniquely identifies each row. | Establishes relationships between tables. |
+| Cannot contain NULL. | Can contain NULL unless restricted. |
+| Does not allow duplicates. | Allows duplicate values. |
+
+### 9. Primary Key vs Unique Key
+
+| Primary Key | Unique Key |
+|---|---|
+| Uniquely identifies records. | Prevents duplicate values. |
+| Cannot contain NULL. | NULL handling depends on DBMS. |
+| One PRIMARY KEY constraint per table. | Multiple UNIQUE constraints allowed. |
+
+### 10. INNER JOIN vs LEFT JOIN
+
+| INNER JOIN | LEFT JOIN |
+|---|---|
+| Returns matching records only. | Returns all left-table records. |
+| Excludes unmatched records. | Unmatched right-side values become NULL. |
+
+### 11. LEFT JOIN vs RIGHT JOIN
+
+| LEFT JOIN | RIGHT JOIN |
+|---|---|
+| Returns all left-table records. | Returns all right-table records. |
+| Unmatched right values become NULL. | Unmatched left values become NULL. |
+
+### 12. UNION vs UNION ALL
+
+| UNION | UNION ALL |
+|---|---|
+| Combines query results. | Combines query results. |
+| Removes duplicate rows. | Retains duplicate rows. |
+| Usually requires extra processing. | Usually requires less processing. |
+
+### 13. COUNT(*) vs COUNT(Column)
+
+| COUNT(*) | COUNT(Column) |
+|---|---|
+| Counts all rows. | Counts non-NULL values. |
+| Includes rows containing NULL. | Excludes NULL values in that column. |
+
+### 14. JOIN vs Subquery
+
+| JOIN | Subquery |
+|---|---|
+| Combines data from multiple tables. | Uses a query inside another query. |
+| Useful for retrieving related columns. | Useful for filtering and calculations. |
+
+### 15. IN vs EXISTS
+
+| IN | EXISTS |
+|---|---|
+| Checks whether a value matches a list or subquery result. | Checks whether a subquery returns any row. |
+| Value comparison. | Existence check. |
+
+---
+
+## Priority 2 – Important
+
+### 16. ALTER vs UPDATE
+
+| ALTER | UPDATE |
+|---|---|
+| Changes table structure. | Changes existing records. |
+| DDL | DML |
+
+### 17. COMMIT vs ROLLBACK
+
+| COMMIT | ROLLBACK |
+|---|---|
+| Saves transaction changes. | Undoes uncommitted changes. |
+| Makes changes permanent. | Reverts transaction changes. |
+
+### 18. Candidate Key vs Super Key
+
+| Candidate Key | Super Key |
+|---|---|
+| Minimal set of columns that uniquely identifies a row. | Any set of columns that uniquely identifies a row. |
+| Contains no unnecessary attributes. | May contain extra attributes. |
+
+### 19. WHERE vs ON
+
+| WHERE | ON |
+|---|---|
+| Filters query results. | Specifies the JOIN matching condition. |
+| Used to filter rows. | Used to connect tables. |
+
+### 20. NULL vs ZERO vs BLANK
+
+| NULL | ZERO | BLANK |
+|---|---|---|
+| Missing or unknown value. | Numeric value 0. | Empty string (''). |
+| Not equal to zero. | Actual number. | A string value. |
+
+### 21. Correlated vs Non-Correlated Subquery
+
+| Correlated | Non-Correlated |
+|---|---|
+| Depends on the outer query. | Independent of the outer query. |
+| Logically evaluated for outer rows. | Can execute independently. |
+
+### 22. View vs Table
+
+| View | Table |
+|---|---|
+| Virtual table based on a query. | Stores actual records. |
+| Usually does not store result data itself. | Stores data physically. |
+| Created using CREATE VIEW. | Created using CREATE TABLE. |
+
+### 23. Stored Procedure vs Function
+
+| Stored Procedure | Function |
+|---|---|
+| Performs a set of operations. | Computes and returns a value. |
+| Can return result sets or output parameters. | Returns a value. |
+| Called using CALL in MySQL. | Can be used in SQL expressions when permitted. |
+
+### 24. Normalization vs Denormalization
+
+| Normalization | Denormalization |
+|---|---|
+| Reduces data redundancy. | Intentionally introduces redundancy. |
+| Improves data integrity. | Can improve read performance. |
+| Uses related tables. | May combine or duplicate data. |
+
+### 25. RANK vs DENSE_RANK vs ROW_NUMBER
+
+| RANK() | DENSE_RANK() | ROW_NUMBER() |
+|---|---|---|
+| Same rank for ties. | Same rank for ties. | Unique sequential numbers. |
+| Skips subsequent ranks. | Does not skip ranks. | Does not skip numbers. |
+
+**Example:**
+
+| Salary | RANK | DENSE_RANK | ROW_NUMBER |
+|---:|---:|---:|---:|
+| 50000 | 1 | 1 | 1 |
+| 50000 | 1 | 1 | 2 |
+| 40000 | 3 | 2 | 3 |
+| 30000 | 4 | 3 | 4 |
+
+---
+
+## Final Revision Priority
+
+- Priority 1: Prepare all 15 thoroughly.
+- Priority 2: Understand all 10 with examples.
+- Practise SQL queries in MySQL Workbench.
+- Explain every difference in your own words.
+
 ## Important Note
 
 These 50 questions cover the foundational SQL concepts for BCA fresher interviews. Also practise writing queries independently in MySQL Workbench instead of only memorizing answers.
