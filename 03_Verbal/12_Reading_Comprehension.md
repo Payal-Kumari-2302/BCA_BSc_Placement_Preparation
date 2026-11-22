@@ -631,30 +631,30 @@ When organizations transitioned to distributed work models, many leaders assumed
 
 Research into workplace communication shows that remote teams tend to become more siloed over time. Employees communicate frequently with their immediate project group, yet their connections with other departments weaken. To counter this, forward-thinking companies are shifting away from constant virtual meetings toward intentional documentation, structured brainstorming sessions, and occasional in-person retreats. Rather than treating remote work as a digital copy of the office, successful teams redesign workflows around clarity, autonomy, and deliberate connection.
 
-### Questions (5–8)
+### Questions 
 
-**Q5. What is the main idea of the passage?**
+**Q1. What is the main idea of the passage?**
 
 A) Remote work always reduces employee productivity compared to office work.  
 B) Digital tools have completely replaced the need for in-person meetings.  
 C) Remote collaboration improves individual focus but requires intentional practices to prevent team isolation.  
 D) Hallway conversations are the only reliable source of workplace innovation.
 
-**Q6. What does the author mean by saying remote teams become "more siloed"?**
+**Q2. What does the author mean by saying remote teams become "more siloed"?**
 
 A) Employees stop using digital messaging platforms altogether.  
 B) Teams interact mostly within their own immediate groups and less with other departments.  
 C) Workers refuse to share project documentation with managers.  
 D) Organizations relocate their offices to rural areas.
 
-**Q7. Which strategy do successful companies use to improve remote collaboration?**
+**Q3. Which strategy do successful companies use to improve remote collaboration?**
 
 A) Increasing the number of daily status video calls  
 B) Monitoring employee screen activity continuously  
 C) Using clear documentation and planned collaborative sessions  
 D) Eliminating all in-person gatherings
 
-**Q8. What is the tone of the passage?**
+**Q4. What is the tone of the passage?**
 
 A) Analytical and balanced  
 B) Sarcastic and critical  
