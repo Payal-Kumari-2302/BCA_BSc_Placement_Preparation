@@ -306,7 +306,7 @@ D. Algorithmic decisions are automatically free from social bias.
 ## Passage 05 – Education, Employment & Critical Thinking
 
 
-### Passage
+
 
 The relationship between education and employability has become increasingly complicated in an economy shaped by rapid technological transformation. Traditionally, educational institutions were expected to provide students with specialised knowledge that would remain useful throughout their professional lives. However, the growing speed of technological change has challenged this assumption. Skills that are highly valued today may become less relevant within a few years, forcing individuals to continuously adapt.
 
@@ -386,9 +386,9 @@ D. The Complete Replacement of Academic Learning
 
 ---
 
-## 06. Passage
 
-### The Hidden Cost of Convenience
+
+### Passage 06. The Hidden Cost of Convenience
 
 Modern technology has made everyday life remarkably convenient. People can order food, transfer money, attend meetings and purchase essential goods without leaving their homes. However, this convenience often comes with costs that are not immediately visible. As individuals become increasingly dependent on digital platforms, they gradually surrender certain aspects of their independence, particularly their ability to make informed decisions without external influence.
 
