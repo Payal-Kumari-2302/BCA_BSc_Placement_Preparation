@@ -558,3 +558,137 @@ D) The Future of Online Shopping
 | Perspective | दृष्टिकोण |
 
 ---
+
+## Passage 07: Edge Computing vs. Cloud Computing
+
+For over a decade, enterprise software relied heavily on centralized cloud servers to store data and run heavy computations. While cloud computing lowered hardware costs and enabled global scalability, the rapid rise of Internet of Things (IoT) devices has exposed a major bottleneck: latency. When autonomous vehicles, industrial robots, or medical monitors send data to a distant cloud server and wait for instructions, even a delay of a few hundred milliseconds can cause system failures or safety hazards.
+
+Edge computing addresses this challenge by processing data closer to where it is generated—directly on local devices or nearby edge servers. Instead of streaming every byte of raw sensor data to a central data center, edge systems filter and analyze critical information locally, sending only summaries or long-term analytics to the cloud. This hybrid approach not only reduces response times and bandwidth costs but also strengthens data privacy by keeping sensitive records on-site. However, securing thousands of distributed edge nodes remains harder than defending a single centralized cloud infrastructure.
+
+### Questions (1–4)
+
+**Q1. What is the primary reason enterprises are adopting edge computing alongside cloud computing?**
+
+A) Cloud servers have become too expensive for small businesses to maintain.  
+B) Centralized cloud processing introduces delays that are risky for real-time applications.  
+C) IoT devices cannot connect directly to internet networks.  
+D) Cloud providers are phasing out data storage services.
+
+**Q2. According to the passage, how does edge computing reduce network bandwidth usage?**
+
+A) By compressing all files before deleting them permanently  
+B) By processing data locally and sending only necessary summaries to the cloud  
+C) By replacing wireless networks with fiber-optic cables  
+D) By limiting the number of IoT devices connected to a network
+
+**Q3. Which of the following is mentioned as a drawback of edge computing?**
+
+A) Slower response times during peak hours  
+B) Higher dependence on distant data centers  
+C) Greater difficulty in securing many distributed devices  
+D) Inability to store long-term analytics
+
+**Q4. Which word is closest in meaning to "bottleneck" as used in the first paragraph?**
+
+A) Accelerator  
+B) Constraint  
+C) Advantage  
+D) Upgrade
+
+### Answer Key – Passage 1
+
+| Question | Correct Answer | Explanation |
+|---|---|---|
+| Q1 | B | Centralized cloud processing causes delays in real-time applications. |
+| Q2 | B | Edge computing processes data locally and sends only necessary summaries to the cloud. |
+| Q3 | C | Securing thousands of distributed edge nodes is difficult. |
+| Q4 | B | Bottleneck means a constraint or limitation. |
+
+### Important Vocabulary – Passage 1
+
+| Word | Hindi Meaning |
+|---|---|
+| Centralized | केंद्रीकृत |
+| Relied | निर्भर रहना |
+| Scalability | विस्तार करने की क्षमता |
+| Bottleneck | बाधा |
+| Latency | प्रतिक्रिया में देरी |
+| Autonomous | स्वायत्त |
+| Computations | गणनाएँ |
+| Hazard | खतरा |
+| Hybrid | मिश्रित |
+| Bandwidth | डेटा ट्रांसफर क्षमता |
+| Sensitive | संवेदनशील |
+| Distributed | वितरित |
+| Infrastructure | आधारभूत संरचना |
+| Constraint | सीमा / प्रतिबंध |
+
+---
+
+## Passage 08: The Paradox of Remote Collaboration
+
+When organizations transitioned to distributed work models, many leaders assumed that digital communication tools would seamlessly replicate office collaboration. In practice, teams discovered a subtle trade-off. While asynchronous messaging and video calls boosted individual focus and eliminated commuting fatigue, they also eroded spontaneous cross-team interactions—the brief hallway conversations where unexpected ideas and quick problem-solving often occurred.
+
+Research into workplace communication shows that remote teams tend to become more siloed over time. Employees communicate frequently with their immediate project group, yet their connections with other departments weaken. To counter this, forward-thinking companies are shifting away from constant virtual meetings toward intentional documentation, structured brainstorming sessions, and occasional in-person retreats. Rather than treating remote work as a digital copy of the office, successful teams redesign workflows around clarity, autonomy, and deliberate connection.
+
+### Questions (5–8)
+
+**Q5. What is the main idea of the passage?**
+
+A) Remote work always reduces employee productivity compared to office work.  
+B) Digital tools have completely replaced the need for in-person meetings.  
+C) Remote collaboration improves individual focus but requires intentional practices to prevent team isolation.  
+D) Hallway conversations are the only reliable source of workplace innovation.
+
+**Q6. What does the author mean by saying remote teams become "more siloed"?**
+
+A) Employees stop using digital messaging platforms altogether.  
+B) Teams interact mostly within their own immediate groups and less with other departments.  
+C) Workers refuse to share project documentation with managers.  
+D) Organizations relocate their offices to rural areas.
+
+**Q7. Which strategy do successful companies use to improve remote collaboration?**
+
+A) Increasing the number of daily status video calls  
+B) Monitoring employee screen activity continuously  
+C) Using clear documentation and planned collaborative sessions  
+D) Eliminating all in-person gatherings
+
+**Q8. What is the tone of the passage?**
+
+A) Analytical and balanced  
+B) Sarcastic and critical  
+C) Alarmist and pessimistic  
+D) Overly emotional
+
+### Answer Key – Passage 2
+
+| Question | Correct Answer | Explanation |
+|---|---|---|
+| Q5 | C | Remote work improves individual focus but requires deliberate collaboration practices. |
+| Q6 | B | Siloed means teams communicate mainly within their own groups. |
+| Q7 | C | Documentation and structured brainstorming improve collaboration. |
+| Q8 | A | The author discusses both advantages and disadvantages objectively. |
+
+### Important Vocabulary – Passage 2
+
+| Word | Hindi Meaning |
+|---|---|
+| Transitioned | बदलाव करना |
+| Distributed | वितरित |
+| Seamlessly | बिना किसी रुकावट के |
+| Subtle | सूक्ष्म |
+| Trade-off | एक लाभ के बदले दूसरा समझौता |
+| Asynchronous | अलग-अलग समय पर होने वाला |
+| Boosted | बढ़ावा दिया |
+| Fatigue | थकान |
+| Eroded | कमजोर करना |
+| Spontaneous | अचानक / स्वतः |
+| Siloed | अलग-अलग समूहों में बँटा हुआ |
+| Immediate | तत्काल / निकटतम |
+| Intentional | जानबूझकर किया गया |
+| Brainstorming | विचार-मंथन |
+| Autonomy | स्वतंत्रता |
+| Deliberate | सोच-समझकर किया गया |
+
+---
